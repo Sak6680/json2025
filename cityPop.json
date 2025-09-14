@@ -1,0 +1,6409 @@
+[{
+    "code": "af",
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "cityPop": 4728384,
+    "cityPop23": 4588666,
+    "cityPop23_24": 139718,
+    "code_counter": "a1"
+}, {
+    "code": "dz",
+    "country": "Algeria",
+    "city": "Algiers",
+    "cityPop": 2952115,
+    "cityPop23": 2901810,
+    "cityPop23_24": 50305,
+    "code_counter": "a2"
+}, {
+    "code": "dz",
+    "country": "Algeria",
+    "city": "Oran",
+    "cityPop": 950768,
+    "cityPop23": 935947,
+    "cityPop23_24": 14821,
+    "code_counter": "a3"
+}, {
+    "code": "ao",
+    "country": "Angola",
+    "city": "Luanda",
+    "cityPop": 9651032,
+    "cityPop23": 9292336,
+    "cityPop23_24": 358696,
+    "code_counter": "a4"
+}, {
+    "code": "ao",
+    "country": "Angola",
+    "city": "Lubango",
+    "cityPop": 1003016,
+    "cityPop23": 958548,
+    "cityPop23_24": 44468,
+    "code_counter": "a5"
+}, {
+    "code": "ao",
+    "country": "Angola",
+    "city": "Cabinda",
+    "cityPop": 947634,
+    "cityPop23": 904676,
+    "cityPop23_24": 42958,
+    "code_counter": "a6"
+}, {
+    "code": "ao",
+    "country": "Angola",
+    "city": "Benguela",
+    "cityPop": 843207,
+    "cityPop23": 809468,
+    "cityPop23_24": 33739,
+    "code_counter": "a7"
+}, {
+    "code": "ao",
+    "country": "Angola",
+    "city": "Malanje",
+    "cityPop": 822471,
+    "cityPop23": 783243,
+    "cityPop23_24": 39228,
+    "code_counter": "a8"
+}, {
+    "code": "ao",
+    "country": "Angola",
+    "city": "Huambo",
+    "cityPop": 751297,
+    "cityPop23": 727641,
+    "cityPop23_24": 23656,
+    "code_counter": "a9"
+}, {
+    "code": "ar",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "cityPop": 15618288,
+    "cityPop23": 15490415,
+    "cityPop23_24": 127873,
+    "code_counter": "a10"
+}, {
+    "code": "ar",
+    "country": "Argentina",
+    "city": "Cordoba",
+    "cityPop": 1625937,
+    "cityPop23": 1611651,
+    "cityPop23_24": 14286,
+    "code_counter": "a11"
+}, {
+    "code": "ar",
+    "country": "Argentina",
+    "city": "Rosario",
+    "cityPop": 1613041,
+    "cityPop23": 1594096,
+    "cityPop23_24": 18945,
+    "code_counter": "a12"
+}, {
+    "code": "ar",
+    "country": "Argentina",
+    "city": "Mendoza",
+    "cityPop": 1242319,
+    "cityPop23": 1226427,
+    "cityPop23_24": 15892,
+    "code_counter": "a13"
+}, {
+    "code": "ar",
+    "country": "Argentina",
+    "city": "San Mig. de Tuc..",
+    "cityPop": 1039226,
+    "cityPop23": 1026767,
+    "cityPop23_24": 12459,
+    "code_counter": "a14"
+}, {
+    "code": "ar",
+    "country": "Argentina",
+    "city": "La Plata",
+    "cityPop": 923715,
+    "cityPop23": 914036,
+    "cityPop23_24": 9679,
+    "code_counter": "a15"
+}, {
+    "code": "am",
+    "country": "Armenia",
+    "city": "Yerevan",
+    "cityPop": 1097542,
+    "cityPop23": 1094813,
+    "cityPop23_24": 2729,
+    "code_counter": "a16"
+}, {
+    "code": "au",
+    "country": "Australia",
+    "city": "Melbourne",
+    "cityPop": 5315600,
+    "cityPop23": 5235407,
+    "cityPop23_24": 80193,
+    "code_counter": "a17"
+}, {
+    "code": "au",
+    "country": "Australia",
+    "city": "Sydney",
+    "cityPop": 5184896,
+    "cityPop23": 5120894,
+    "cityPop23_24": 64002,
+    "code_counter": "a18"
+}, {
+    "code": "au",
+    "country": "Australia",
+    "city": "Brisbane",
+    "cityPop": 2536449,
+    "cityPop23": 2504505,
+    "cityPop23_24": 31944,
+    "code_counter": "a19"
+}, {
+    "code": "au",
+    "country": "Australia",
+    "city": "Perth",
+    "cityPop": 2143491,
+    "cityPop23": 2117997,
+    "cityPop23_24": 25494,
+    "code_counter": "a20"
+}, {
+    "code": "au",
+    "country": "Australia",
+    "city": "Adelaide",
+    "cityPop": 1379280,
+    "cityPop23": 1366783,
+    "cityPop23_24": 12497,
+    "code_counter": "a21"
+}, {
+    "code": "at",
+    "country": "Austria",
+    "city": "Vienna",
+    "cityPop": 1990487,
+    "cityPop23": 1975271,
+    "cityPop23_24": 15216,
+    "code_counter": "a22"
+}, {
+    "code": "az",
+    "country": "Azerbaijan",
+    "city": "Baku",
+    "cityPop": 2464162,
+    "cityPop23": 2432304,
+    "cityPop23_24": 31858,
+    "code_counter": "a23"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "cityPop": 23935652,
+    "cityPop23": 23209616,
+    "cityPop23_24": 726036,
+    "code_counter": "a24"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Chittagong",
+    "cityPop": 5513609,
+    "cityPop23": 5379660,
+    "cityPop23_24": 133949,
+    "code_counter": "a25"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Sylhet",
+    "cityPop": 999374,
+    "cityPop23": 964291,
+    "cityPop23_24": 35083,
+    "code_counter": "a26"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Rajshahi",
+    "cityPop": 983707,
+    "cityPop23": 961991,
+    "cityPop23_24": 21716,
+    "code_counter": "a27"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Khulna",
+    "cityPop": 965483,
+    "cityPop23": 955104,
+    "cityPop23_24": 10379,
+    "code_counter": "a28"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Bogra",
+    "cityPop": 944877,
+    "cityPop23": 905814,
+    "cityPop23_24": 39063,
+    "code_counter": "a29"
+}, {
+    "code": "by",
+    "country": "Belarus",
+    "city": "Minsk",
+    "cityPop": 2064733,
+    "cityPop23": 2057257,
+    "cityPop23_24": 7476,
+    "code_counter": "a30"
+}, {
+    "code": "be",
+    "country": "Belgium",
+    "city": "Brussels",
+    "cityPop": 2132178,
+    "cityPop23": 2121992,
+    "cityPop23_24": 10186,
+    "code_counter": "a31"
+}, {
+    "code": "be",
+    "country": "Belgium",
+    "city": "Antwerp",
+    "cityPop": 1061089,
+    "cityPop23": 1057215,
+    "cityPop23_24": 3874,
+    "code_counter": "a32"
+}, {
+    "code": "bj",
+    "country": "Benin",
+    "city": "Abomey-Calavi",
+    "cityPop": 1314916,
+    "cityPop23": 1252890,
+    "cityPop23_24": 62026,
+    "code_counter": "a33"
+}, {
+    "code": "bo",
+    "country": "Bolivia",
+    "city": "La Paz",
+    "cityPop": 1965570,
+    "cityPop23": 1935619,
+    "cityPop23_24": 29951,
+    "code_counter": "a34"
+}, {
+    "code": "bo",
+    "country": "Bolivia",
+    "city": "Santa Cruz",
+    "cityPop": 1855732,
+    "cityPop23": 1820114,
+    "cityPop23_24": 35618,
+    "code_counter": "a35"
+}, {
+    "code": "bo",
+    "country": "Bolivia",
+    "city": "Cochabamba",
+    "cityPop": 1430688,
+    "cityPop23": 1400250,
+    "cityPop23_24": 30438,
+    "code_counter": "a36"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Sao Paulo",
+    "cityPop": 22806704,
+    "cityPop23": 22619736,
+    "cityPop23_24": 186968,
+    "code_counter": "a37"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "cityPop": 13824347,
+    "cityPop23": 13727720,
+    "cityPop23_24": 96627,
+    "code_counter": "a38"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Belo Horizonte",
+    "cityPop": 6300409,
+    "cityPop23": 6247889,
+    "cityPop23_24": 52520,
+    "code_counter": "a39"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Brasilia",
+    "cityPop": 4935274,
+    "cityPop23": 4873048,
+    "cityPop23_24": 62226,
+    "code_counter": "a40"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Recife",
+    "cityPop": 4305127,
+    "cityPop23": 4263940,
+    "cityPop23_24": 41187,
+    "code_counter": "a41"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Fortaleza",
+    "cityPop": 4246399,
+    "cityPop23": 4206240,
+    "cityPop23_24": 40159,
+    "code_counter": "a42"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Porto Alegre",
+    "cityPop": 4239867,
+    "cityPop23": 4211933,
+    "cityPop23_24": 27934,
+    "code_counter": "a43"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Salvador",
+    "cityPop": 3994982,
+    "cityPop23": 3958384,
+    "cityPop23_24": 36598,
+    "code_counter": "a44"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Curitiba",
+    "cityPop": 3852459,
+    "cityPop23": 3813082,
+    "cityPop23_24": 39377,
+    "code_counter": "a45"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Campinas",
+    "cityPop": 3458441,
+    "cityPop23": 3422796,
+    "cityPop23_24": 35645,
+    "code_counter": "a46"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Goiania",
+    "cityPop": 2890418,
+    "cityPop23": 2848473,
+    "cityPop23_24": 41945,
+    "code_counter": "a47"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Belem",
+    "cityPop": 2432177,
+    "cityPop23": 2409409,
+    "cityPop23_24": 22768,
+    "code_counter": "a48"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Manaus",
+    "cityPop": 2406854,
+    "cityPop23": 2375636,
+    "cityPop23_24": 31218,
+    "code_counter": "a49"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Grande Vitoria",
+    "cityPop": 2196818,
+    "cityPop23": 2170513,
+    "cityPop23_24": 26305,
+    "code_counter": "a50"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Baixada Santista",
+    "cityPop": 1965110,
+    "cityPop23": 1947785,
+    "cityPop23_24": 17325,
+    "code_counter": "a51"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Natal",
+    "cityPop": 1556413,
+    "cityPop23": 1535316,
+    "cityPop23_24": 21097,
+    "code_counter": "a52"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Grande Sao Luis",
+    "cityPop": 1536017,
+    "cityPop23": 1523629,
+    "cityPop23_24": 12388,
+    "code_counter": "a53"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Joao Pessoa",
+    "cityPop": 1435125,
+    "cityPop23": 1421827,
+    "cityPop23_24": 13298,
+    "code_counter": "a54"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Maceio",
+    "cityPop": 1375984,
+    "cityPop23": 1363510,
+    "cityPop23_24": 12474,
+    "code_counter": "a55"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Joinville",
+    "cityPop": 1361992,
+    "cityPop23": 1348521,
+    "cityPop23_24": 13471,
+    "code_counter": "a56"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Florianopolis",
+    "cityPop": 1309895,
+    "cityPop23": 1294486,
+    "cityPop23_24": 15409,
+    "code_counter": "a57"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Aracaju",
+    "cityPop": 1070122,
+    "cityPop23": 1056986,
+    "cityPop23_24": 13136,
+    "code_counter": "a58"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Teresina",
+    "cityPop": 1059657,
+    "cityPop23": 1050459,
+    "cityPop23_24": 9198,
+    "code_counter": "a59"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Campo Grande",
+    "cityPop": 934936,
+    "cityPop23": 926095,
+    "cityPop23_24": 8841,
+    "code_counter": "a60"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Londrina",
+    "cityPop": 932892,
+    "cityPop23": 922425,
+    "cityPop23_24": 10467,
+    "code_counter": "a61"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Sorocaba",
+    "cityPop": 821435,
+    "cityPop23": 813320,
+    "cityPop23_24": 8115,
+    "code_counter": "a62"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Sao Jose dos Cam.",
+    "cityPop": 757137,
+    "cityPop23": 749188,
+    "cityPop23_24": 7949,
+    "code_counter": "a63"
+}, {
+    "code": "br",
+    "country": "Brazil",
+    "city": "Ribeirao Preto",
+    "cityPop": 750174,
+    "cityPop23": 742115,
+    "cityPop23_24": 8059,
+    "code_counter": "a64"
+}, {
+    "code": "bg",
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "cityPop": 1287540,
+    "cityPop23": 1288114,
+    "cityPop23_24": -574,
+    "code_counter": "a65"
+}, {
+    "code": "bf",
+    "country": "Burkina Faso",
+    "city": "Ouagadougou",
+    "cityPop": 3358934,
+    "cityPop23": 3203923,
+    "cityPop23_24": 155011,
+    "code_counter": "a66"
+}, {
+    "code": "bf",
+    "country": "Burkina Faso",
+    "city": "Bobo-Dioulasso",
+    "cityPop": 1185053,
+    "cityPop23": 1128646,
+    "cityPop23_24": 56407,
+    "code_counter": "a67"
+}, {
+    "code": "bi",
+    "country": "Burundi",
+    "city": "Bujumbura",
+    "cityPop": 1277050,
+    "cityPop23": 1206767,
+    "cityPop23_24": 70283,
+    "code_counter": "a68"
+}, {
+    "code": "kh",
+    "country": "Cambodia",
+    "city": "Phnom Penh",
+    "cityPop": 2352680,
+    "cityPop23": 2281198,
+    "cityPop23_24": 71482,
+    "code_counter": "a69"
+}, {
+    "code": "cm",
+    "country": "Cameroon",
+    "city": "Yaounde",
+    "cityPop": 4681768,
+    "cityPop23": 4509287,
+    "cityPop23_24": 172481,
+    "code_counter": "a70"
+}, {
+    "code": "cm",
+    "country": "Cameroon",
+    "city": "Douala",
+    "cityPop": 4203108,
+    "cityPop23": 4063200,
+    "cityPop23_24": 139908,
+    "code_counter": "a71"
+}, {
+    "code": "ca",
+    "country": "Canada",
+    "city": "Toronto",
+    "cityPop": 6431430,
+    "cityPop23": 6371958,
+    "cityPop23_24": 59472,
+    "code_counter": "a72"
+}, {
+    "code": "ca",
+    "country": "Canada",
+    "city": "Montreal",
+    "cityPop": 4341638,
+    "cityPop23": 4307958,
+    "cityPop23_24": 33680,
+    "code_counter": "a73"
+}, {
+    "code": "ca",
+    "country": "Canada",
+    "city": "Vancouver",
+    "cityPop": 2682509,
+    "cityPop23": 2657088,
+    "cityPop23_24": 25421,
+    "code_counter": "a74"
+}, {
+    "code": "ca",
+    "country": "Canada",
+    "city": "Calgary",
+    "cityPop": 1665023,
+    "cityPop23": 1639613,
+    "cityPop23_24": 25410,
+    "code_counter": "a75"
+}, {
+    "code": "ca",
+    "country": "Canada",
+    "city": "Edmonton",
+    "cityPop": 1567615,
+    "cityPop23": 1544448,
+    "cityPop23_24": 23167,
+    "code_counter": "a76"
+}, {
+    "code": "ca",
+    "country": "Canada",
+    "city": "Ottawa",
+    "cityPop": 1451571,
+    "cityPop23": 1437188,
+    "cityPop23_24": 14383,
+    "code_counter": "a77"
+}, {
+    "code": "ca",
+    "country": "Canada",
+    "city": "Quebec City",
+    "cityPop": 851061,
+    "cityPop23": 844249,
+    "cityPop23_24": 6812,
+    "code_counter": "a78"
+}, {
+    "code": "ca",
+    "country": "Canada",
+    "city": "Winnipeg",
+    "cityPop": 849251,
+    "cityPop23": 841108,
+    "cityPop23_24": 8143,
+    "code_counter": "a79"
+}, {
+    "code": "ca",
+    "country": "Canada",
+    "city": "Hamilton",
+    "cityPop": 786843,
+    "cityPop23": 781047,
+    "cityPop23_24": 5796,
+    "code_counter": "a80"
+}, {
+    "code": "cf",
+    "country": "Central African Republic",
+    "city": "Bangui",
+    "cityPop": 985965,
+    "cityPop23": 958335,
+    "cityPop23_24": 27630,
+    "code_counter": "a81"
+}, {
+    "code": "td",
+    "country": "Chad",
+    "city": "N-Djamena",
+    "cityPop": 1655618,
+    "cityPop23": 1592324,
+    "cityPop23_24": 63294,
+    "code_counter": "a82"
+}, {
+    "code": "cl",
+    "country": "Chile",
+    "city": "Santiago",
+    "cityPop": 6950952,
+    "cityPop23": 6903392,
+    "cityPop23_24": 47560,
+    "code_counter": "a83"
+}, {
+    "code": "cl",
+    "country": "Chile",
+    "city": "Valparaiso",
+    "cityPop": 1016585,
+    "cityPop23": 1008599,
+    "cityPop23_24": 7986,
+    "code_counter": "a84"
+}, {
+    "code": "cl",
+    "country": "Chile",
+    "city": "Concepcion",
+    "cityPop": 920916,
+    "cityPop23": 911862,
+    "cityPop23_24": 9054,
+    "code_counter": "a85"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Shanghai",
+    "cityPop": 29867918,
+    "cityPop23": 29210808,
+    "cityPop23_24": 657110,
+    "code_counter": "a86"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Beijing",
+    "cityPop": 22189082,
+    "cityPop23": 21766214,
+    "cityPop23_24": 422868,
+    "code_counter": "a87"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Chongqing",
+    "cityPop": 17773923,
+    "cityPop23": 17340704,
+    "cityPop23_24": 433219,
+    "code_counter": "a88"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Guangzhou",
+    "cityPop": 14590096,
+    "cityPop23": 14284353,
+    "cityPop23_24": 305743,
+    "code_counter": "a89"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Tianjin",
+    "cityPop": 14470873,
+    "cityPop23": 14238643,
+    "cityPop23_24": 232230,
+    "code_counter": "a90"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Shenzhen",
+    "cityPop": 13311855,
+    "cityPop23": 13072633,
+    "cityPop23_24": 239222,
+    "code_counter": "a91"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Nanjing",
+    "cityPop": 9947548,
+    "cityPop23": 9698464,
+    "cityPop23_24": 249084,
+    "code_counter": "a92"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Chengdu",
+    "cityPop": 9828110,
+    "cityPop23": 9653772,
+    "cityPop23_24": 174338,
+    "code_counter": "a93"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xi-an Shaanxi",
+    "cityPop": 9013837,
+    "cityPop23": 8785174,
+    "cityPop23_24": 228663,
+    "code_counter": "a94"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Wuhan",
+    "cityPop": 8850850,
+    "cityPop23": 8718250,
+    "cityPop23_24": 132600,
+    "code_counter": "a95"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Hangzhou",
+    "cityPop": 8419842,
+    "cityPop23": 8237206,
+    "cityPop23_24": 182636,
+    "code_counter": "a96"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Suzhou",
+    "cityPop": 8350625,
+    "cityPop23": 8074031,
+    "cityPop23_24": 276594,
+    "code_counter": "a97"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Shenyang",
+    "cityPop": 7830377,
+    "cityPop23": 7680967,
+    "cityPop23_24": 149410,
+    "code_counter": "a98"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Foshan",
+    "cityPop": 7704935,
+    "cityPop23": 7597386,
+    "cityPop23_24": 107549,
+    "code_counter": "a99"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Dongguan",
+    "cityPop": 7675146,
+    "cityPop23": 7587049,
+    "cityPop23_24": 88097,
+    "code_counter": "a100"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Haerbin",
+    "cityPop": 6938008,
+    "cityPop23": 6803811,
+    "cityPop23_24": 134197,
+    "code_counter": "a101"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Dalian",
+    "cityPop": 6217487,
+    "cityPop23": 6077995,
+    "cityPop23_24": 139492,
+    "code_counter": "a102"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Qingdao",
+    "cityPop": 6104597,
+    "cityPop23": 5986525,
+    "cityPop23_24": 118072,
+    "code_counter": "a103"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhengzhou",
+    "cityPop": 6014887,
+    "cityPop23": 5859272,
+    "cityPop23_24": 155615,
+    "code_counter": "a104"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Ji-nan Shandong",
+    "cityPop": 5940698,
+    "cityPop23": 5806031,
+    "cityPop23_24": 134667,
+    "code_counter": "a105"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Changsha",
+    "cityPop": 5027975,
+    "cityPop23": 4921487,
+    "cityPop23_24": 106488,
+    "code_counter": "a106"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Urumqi",
+    "cityPop": 5005964,
+    "cityPop23": 4865038,
+    "cityPop23_24": 140926,
+    "code_counter": "a107"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Kunming",
+    "cityPop": 4861079,
+    "cityPop23": 4761284,
+    "cityPop23_24": 99795,
+    "code_counter": "a108"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Changchun",
+    "cityPop": 4802447,
+    "cityPop23": 4710382,
+    "cityPop23_24": 92065,
+    "code_counter": "a109"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Hefei",
+    "cityPop": 4727290,
+    "cityPop23": 4615758,
+    "cityPop23_24": 111532,
+    "code_counter": "a110"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Ningbo",
+    "cityPop": 4659830,
+    "cityPop23": 4537901,
+    "cityPop23_24": 121929,
+    "code_counter": "a111"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Shantou",
+    "cityPop": 4656525,
+    "cityPop23": 4573713,
+    "cityPop23_24": 82812,
+    "code_counter": "a112"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Shijiazhuang",
+    "cityPop": 4454132,
+    "cityPop23": 4370473,
+    "cityPop23_24": 83659,
+    "code_counter": "a113"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Nanning",
+    "cityPop": 4291463,
+    "cityPop23": 4191890,
+    "cityPop23_24": 99573,
+    "code_counter": "a114"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Taiyuan Shanxi",
+    "cityPop": 4226782,
+    "cityPop23": 4145010,
+    "cityPop23_24": 81772,
+    "code_counter": "a115"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Changzhou",
+    "cityPop": 4085502,
+    "cityPop23": 3981658,
+    "cityPop23_24": 103844,
+    "code_counter": "a116"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Nanchang",
+    "cityPop": 4016037,
+    "cityPop23": 3920379,
+    "cityPop23_24": 95658,
+    "code_counter": "a117"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Wenzhou",
+    "cityPop": 4009531,
+    "cityPop23": 3919724,
+    "cityPop23_24": 89807,
+    "code_counter": "a118"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xiamen",
+    "cityPop": 4007468,
+    "cityPop23": 3935484,
+    "cityPop23_24": 71984,
+    "code_counter": "a119"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Fuzhou Fujian",
+    "cityPop": 3998754,
+    "cityPop23": 3922202,
+    "cityPop23_24": 76552,
+    "code_counter": "a120"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Tangshan Hebei",
+    "cityPop": 3925206,
+    "cityPop23": 3814702,
+    "cityPop23_24": 110504,
+    "code_counter": "a121"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Guiyang",
+    "cityPop": 3661446,
+    "cityPop23": 3580904,
+    "cityPop23_24": 80542,
+    "code_counter": "a122"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Wuxi",
+    "cityPop": 3498740,
+    "cityPop23": 3437346,
+    "cityPop23_24": 61394,
+    "code_counter": "a123"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Lanzhou",
+    "cityPop": 3365910,
+    "cityPop23": 3297528,
+    "cityPop23_24": 68382,
+    "code_counter": "a124"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Handan",
+    "cityPop": 3085998,
+    "cityPop23": 3005409,
+    "cityPop23_24": 80589,
+    "code_counter": "a125"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Huaian",
+    "cityPop": 3071048,
+    "cityPop23": 2979893,
+    "cityPop23_24": 91155,
+    "code_counter": "a126"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhongshan",
+    "cityPop": 3051065,
+    "cityPop23": 3010685,
+    "cityPop23_24": 40380,
+    "code_counter": "a127"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Weifang",
+    "cityPop": 2994537,
+    "cityPop23": 2917819,
+    "cityPop23_24": 76718,
+    "code_counter": "a128"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Shaoxing",
+    "cityPop": 2882171,
+    "cityPop23": 2805654,
+    "cityPop23_24": 76517,
+    "code_counter": "a129"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yantai",
+    "cityPop": 2834508,
+    "cityPop23": 2764584,
+    "cityPop23_24": 69924,
+    "code_counter": "a130"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zibo",
+    "cityPop": 2828435,
+    "cityPop23": 2780142,
+    "cityPop23_24": 48293,
+    "code_counter": "a131"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Huizhou",
+    "cityPop": 2827610,
+    "cityPop23": 2758593,
+    "cityPop23_24": 69017,
+    "code_counter": "a132"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Luoyang",
+    "cityPop": 2666744,
+    "cityPop23": 2602793,
+    "cityPop23_24": 63951,
+    "code_counter": "a133"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Nantong",
+    "cityPop": 2555722,
+    "cityPop23": 2492230,
+    "cityPop23_24": 63492,
+    "code_counter": "a134"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Hohhot",
+    "cityPop": 2443686,
+    "cityPop23": 2380636,
+    "cityPop23_24": 63050,
+    "code_counter": "a135"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Liuzhou",
+    "cityPop": 2397410,
+    "cityPop23": 2343452,
+    "cityPop23_24": 53958,
+    "code_counter": "a136"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Baotou",
+    "cityPop": 2381242,
+    "cityPop23": 2334878,
+    "cityPop23_24": 46364,
+    "code_counter": "a137"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xuzhou",
+    "cityPop": 2332531,
+    "cityPop23": 2287166,
+    "cityPop23_24": 45365,
+    "code_counter": "a138"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Putian",
+    "cityPop": 2250104,
+    "cityPop23": 2176022,
+    "cityPop23_24": 74082,
+    "code_counter": "a139"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Wuhu Anhui",
+    "cityPop": 2195262,
+    "cityPop23": 2124797,
+    "cityPop23_24": 70465,
+    "code_counter": "a140"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yangzhou",
+    "cityPop": 2175102,
+    "cityPop23": 2131291,
+    "cityPop23_24": 43811,
+    "code_counter": "a141"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Taizhou Zhejiang",
+    "cityPop": 2152226,
+    "cityPop23": 2102143,
+    "cityPop23_24": 50083,
+    "code_counter": "a142"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Baoding",
+    "cityPop": 2149703,
+    "cityPop23": 2107539,
+    "cityPop23_24": 42164,
+    "code_counter": "a143"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Linyi Shandong",
+    "cityPop": 2120049,
+    "cityPop23": 2076364,
+    "cityPop23_24": 43685,
+    "code_counter": "a144"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Haikou",
+    "cityPop": 2056646,
+    "cityPop23": 2016092,
+    "cityPop23_24": 40554,
+    "code_counter": "a145"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Daqing",
+    "cityPop": 2044371,
+    "cityPop23": 2000656,
+    "cityPop23_24": 43715,
+    "code_counter": "a146"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Lianyungang",
+    "cityPop": 2035631,
+    "cityPop23": 1986439,
+    "cityPop23_24": 49192,
+    "code_counter": "a147"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yancheng Jiangsu",
+    "cityPop": 2034326,
+    "cityPop23": 1993463,
+    "cityPop23_24": 40863,
+    "code_counter": "a148"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhuhai",
+    "cityPop": 1930373,
+    "cityPop23": 1889829,
+    "cityPop23_24": 40544,
+    "code_counter": "a149"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Quanzhou",
+    "cityPop": 1920733,
+    "cityPop23": 1869994,
+    "cityPop23_24": 50739,
+    "code_counter": "a150"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Datong",
+    "cityPop": 1913674,
+    "cityPop23": 1873693,
+    "cityPop23_24": 39981,
+    "code_counter": "a151"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Cixi",
+    "cityPop": 1840039,
+    "cityPop23": 1788871,
+    "cityPop23_24": 51168,
+    "code_counter": "a152"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jiangmen",
+    "cityPop": 1797469,
+    "cityPop23": 1768511,
+    "cityPop23_24": 28958,
+    "code_counter": "a153"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xiangyang",
+    "cityPop": 1772318,
+    "cityPop23": 1742706,
+    "cityPop23_24": 29612,
+    "code_counter": "a154"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yichang",
+    "cityPop": 1758100,
+    "cityPop23": 1711244,
+    "cityPop23_24": 46856,
+    "code_counter": "a155"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yinchuan",
+    "cityPop": 1757699,
+    "cityPop23": 1716591,
+    "cityPop23_24": 41108,
+    "code_counter": "a156"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Suqian",
+    "cityPop": 1726327,
+    "cityPop23": 1664968,
+    "cityPop23_24": 61359,
+    "code_counter": "a157"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Qinhuangdao",
+    "cityPop": 1723728,
+    "cityPop23": 1680962,
+    "cityPop23_24": 42766,
+    "code_counter": "a158"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Anshan",
+    "cityPop": 1713452,
+    "cityPop23": 1689499,
+    "cityPop23_24": 23953,
+    "code_counter": "a159"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xining",
+    "cityPop": 1705078,
+    "cityPop23": 1666605,
+    "cityPop23_24": 38473,
+    "code_counter": "a160"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Hengyang",
+    "cityPop": 1702012,
+    "cityPop23": 1661854,
+    "cityPop23_24": 40158,
+    "code_counter": "a161"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jilin",
+    "cityPop": 1693701,
+    "cityPop23": 1668785,
+    "cityPop23_24": 24916,
+    "code_counter": "a162"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Anyang",
+    "cityPop": 1693375,
+    "cityPop23": 1642347,
+    "cityPop23_24": 51028,
+    "code_counter": "a163"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Qiqihaer",
+    "cityPop": 1662407,
+    "cityPop23": 1635458,
+    "cityPop23_24": 26949,
+    "code_counter": "a164"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jining Shandong",
+    "cityPop": 1595963,
+    "cityPop23": 1569560,
+    "cityPop23_24": 26403,
+    "code_counter": "a165"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhangjiakou",
+    "cityPop": 1568122,
+    "cityPop23": 1536171,
+    "cityPop23_24": 31951,
+    "code_counter": "a166"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Huainan",
+    "cityPop": 1538603,
+    "cityPop23": 1512668,
+    "cityPop23_24": 25935,
+    "code_counter": "a167"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yiwu",
+    "cityPop": 1525749,
+    "cityPop23": 1483320,
+    "cityPop23_24": 42429,
+    "code_counter": "a168"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Chaozhou",
+    "cityPop": 1520628,
+    "cityPop23": 1496298,
+    "cityPop23_24": 24330,
+    "code_counter": "a169"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Ganzhou",
+    "cityPop": 1508037,
+    "cityPop23": 1459678,
+    "cityPop23_24": 48359,
+    "code_counter": "a170"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Taizhou Jiangsu",
+    "cityPop": 1477600,
+    "cityPop23": 1446810,
+    "cityPop23_24": 30790,
+    "code_counter": "a171"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jiaxing",
+    "cityPop": 1470917,
+    "cityPop23": 1424982,
+    "cityPop23_24": 45935,
+    "code_counter": "a172"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Weihai",
+    "cityPop": 1465926,
+    "cityPop23": 1429315,
+    "cityPop23_24": 36611,
+    "code_counter": "a173"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Taian Shandong",
+    "cityPop": 1441911,
+    "cityPop23": 1416064,
+    "cityPop23_24": 25847,
+    "code_counter": "a174"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Kaifeng",
+    "cityPop": 1434463,
+    "cityPop23": 1398262,
+    "cityPop23_24": 36201,
+    "code_counter": "a175"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Liuyang",
+    "cityPop": 1428802,
+    "cityPop23": 1373523,
+    "cityPop23_24": 55279,
+    "code_counter": "a176"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Liuan",
+    "cityPop": 1427894,
+    "cityPop23": 1378077,
+    "cityPop23_24": 49817,
+    "code_counter": "a177"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Rizhao",
+    "cityPop": 1426583,
+    "cityPop23": 1391258,
+    "cityPop23_24": 35325,
+    "code_counter": "a178"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Nanchong",
+    "cityPop": 1412714,
+    "cityPop23": 1377572,
+    "cityPop23_24": 35142,
+    "code_counter": "a179"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Dongying",
+    "cityPop": 1410791,
+    "cityPop23": 1379377,
+    "cityPop23_24": 31414,
+    "code_counter": "a180"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zunyi",
+    "cityPop": 1406091,
+    "cityPop23": 1376453,
+    "cityPop23_24": 29638,
+    "code_counter": "a181"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhanjiang",
+    "cityPop": 1399310,
+    "cityPop23": 1371998,
+    "cityPop23_24": 27312,
+    "code_counter": "a182"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Shiyan",
+    "cityPop": 1387377,
+    "cityPop23": 1354025,
+    "cityPop23_24": 33352,
+    "code_counter": "a183"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Mianyang Sichuan",
+    "cityPop": 1376449,
+    "cityPop23": 1351383,
+    "cityPop23_24": 25066,
+    "code_counter": "a184"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Tengzhou",
+    "cityPop": 1360779,
+    "cityPop23": 1322916,
+    "cityPop23_24": 37863,
+    "code_counter": "a185"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yingkou",
+    "cityPop": 1355564,
+    "cityPop23": 1323174,
+    "cityPop23_24": 32390,
+    "code_counter": "a186"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Suzhou",
+    "cityPop": 1349994,
+    "cityPop23": 1310433,
+    "cityPop23_24": 39561,
+    "code_counter": "a187"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Maoming",
+    "cityPop": 1333930,
+    "cityPop23": 1303900,
+    "cityPop23_24": 30030,
+    "code_counter": "a188"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jieyang",
+    "cityPop": 1320779,
+    "cityPop23": 1282479,
+    "cityPop23_24": 38300,
+    "code_counter": "a189"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Fushun Liaoning",
+    "cityPop": 1317276,
+    "cityPop23": 1304565,
+    "cityPop23_24": 12711,
+    "code_counter": "a190"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Ruian",
+    "cityPop": 1314784,
+    "cityPop23": 1281790,
+    "cityPop23_24": 32994,
+    "code_counter": "a191"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jinhua",
+    "cityPop": 1296065,
+    "cityPop23": 1257941,
+    "cityPop23_24": 38124,
+    "code_counter": "a192"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Baoji",
+    "cityPop": 1290231,
+    "cityPop23": 1261077,
+    "cityPop23_24": 29154,
+    "code_counter": "a193"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Pingd.. Henan",
+    "cityPop": 1285750,
+    "cityPop23": 1256581,
+    "cityPop23_24": 29169,
+    "code_counter": "a194"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Puning",
+    "cityPop": 1282756,
+    "cityPop23": 1254160,
+    "cityPop23_24": 28596,
+    "code_counter": "a195"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Chifeng",
+    "cityPop": 1279544,
+    "cityPop23": 1252414,
+    "cityPop23_24": 27130,
+    "code_counter": "a196"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhuzhou",
+    "cityPop": 1277238,
+    "cityPop23": 1254519,
+    "cityPop23_24": 22719,
+    "code_counter": "a197"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhenjiang Jiangsu",
+    "cityPop": 1275395,
+    "cityPop23": 1250668,
+    "cityPop23_24": 24727,
+    "code_counter": "a198"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Liupanshui",
+    "cityPop": 1272872,
+    "cityPop23": 1230644,
+    "cityPop23_24": 42228,
+    "code_counter": "a199"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Huaibei",
+    "cityPop": 1264856,
+    "cityPop23": 1236271,
+    "cityPop23_24": 28585,
+    "code_counter": "a200"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Nanyang Henan",
+    "cityPop": 1250300,
+    "cityPop23": 1224629,
+    "cityPop23_24": 25671,
+    "code_counter": "a201"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xiangtan Hunan",
+    "cityPop": 1249380,
+    "cityPop23": 1223912,
+    "cityPop23_24": 25468,
+    "code_counter": "a202"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Pizhou",
+    "cityPop": 1247177,
+    "cityPop23": 1207275,
+    "cityPop23_24": 39902,
+    "code_counter": "a203"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Luohe",
+    "cityPop": 1241152,
+    "cityPop23": 1197935,
+    "cityPop23_24": 43217,
+    "code_counter": "a204"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xiongan",
+    "cityPop": 1240158,
+    "cityPop23": 1183042,
+    "cityPop23_24": 57116,
+    "code_counter": "a205"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jinzhou",
+    "cityPop": 1238377,
+    "cityPop23": 1215376,
+    "cityPop23_24": 23001,
+    "code_counter": "a206"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Benxi",
+    "cityPop": 1237550,
+    "cityPop23": 1216852,
+    "cityPop23_24": 20698,
+    "code_counter": "a207"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Binzhou",
+    "cityPop": 1233584,
+    "cityPop23": 1200222,
+    "cityPop23_24": 33362,
+    "code_counter": "a208"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Bazhong",
+    "cityPop": 1225591,
+    "cityPop23": 1175989,
+    "cityPop23_24": 49602,
+    "code_counter": "a209"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Guilin",
+    "cityPop": 1218067,
+    "cityPop23": 1196841,
+    "cityPop23_24": 21226,
+    "code_counter": "a210"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yueqing",
+    "cityPop": 1201400,
+    "cityPop23": 1169864,
+    "cityPop23_24": 31536,
+    "code_counter": "a211"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xinxiang",
+    "cityPop": 1160840,
+    "cityPop23": 1140599,
+    "cityPop23_24": 20241,
+    "code_counter": "a212"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Wenling",
+    "cityPop": 1159259,
+    "cityPop23": 1131361,
+    "cityPop23_24": 27898,
+    "code_counter": "a213"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zaozhuang",
+    "cityPop": 1150859,
+    "cityPop23": 1133629,
+    "cityPop23_24": 17230,
+    "code_counter": "a214"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Fuyang",
+    "cityPop": 1146343,
+    "cityPop23": 1120694,
+    "cityPop23_24": 25649,
+    "code_counter": "a215"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Panjin",
+    "cityPop": 1142542,
+    "cityPop23": 1120675,
+    "cityPop23_24": 21867,
+    "code_counter": "a216"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Ma'anshan",
+    "cityPop": 1140264,
+    "cityPop23": 1112680,
+    "cityPop23_24": 27584,
+    "code_counter": "a217"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Fuzhou Jiangxi",
+    "cityPop": 1131718,
+    "cityPop23": 1100271,
+    "cityPop23_24": 31447,
+    "code_counter": "a218"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Shangrao",
+    "cityPop": 1130887,
+    "cityPop23": 1106736,
+    "cityPop23_24": 24151,
+    "code_counter": "a219"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhaoqing",
+    "cityPop": 1127601,
+    "cityPop23": 1103202,
+    "cityPop23_24": 24399,
+    "code_counter": "a220"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yichun Jiangxi",
+    "cityPop": 1122041,
+    "cityPop23": 1078630,
+    "cityPop23_24": 43411,
+    "code_counter": "a221"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Chenzhou",
+    "cityPop": 1119791,
+    "cityPop23": 1084969,
+    "cityPop23_24": 34822,
+    "code_counter": "a222"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Leshan",
+    "cityPop": 1116497,
+    "cityPop23": 1087409,
+    "cityPop23_24": 29088,
+    "code_counter": "a223"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Dezhou",
+    "cityPop": 1108356,
+    "cityPop23": 1080680,
+    "cityPop23_24": 27676,
+    "code_counter": "a224"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jingzhou Hubei",
+    "cityPop": 1108067,
+    "cityPop23": 1089886,
+    "cityPop23_24": 18181,
+    "code_counter": "a225"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Changshu",
+    "cityPop": 1093687,
+    "cityPop23": 1059902,
+    "cityPop23_24": 33785,
+    "code_counter": "a226"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Huzhou",
+    "cityPop": 1091811,
+    "cityPop23": 1067651,
+    "cityPop23_24": 24160,
+    "code_counter": "a227"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xuchang",
+    "cityPop": 1091744,
+    "cityPop23": 1063876,
+    "cityPop23_24": 27868,
+    "code_counter": "a228"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Qujing",
+    "cityPop": 1066897,
+    "cityPop23": 1038964,
+    "cityPop23_24": 27933,
+    "code_counter": "a229"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yueyang",
+    "cityPop": 1064166,
+    "cityPop23": 1048889,
+    "cityPop23_24": 15277,
+    "code_counter": "a230"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Guiping",
+    "cityPop": 1055921,
+    "cityPop23": 1020399,
+    "cityPop23_24": 35522,
+    "code_counter": "a231"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xintai",
+    "cityPop": 1049486,
+    "cityPop23": 1023756,
+    "cityPop23_24": 25730,
+    "code_counter": "a232"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Chengde",
+    "cityPop": 1024521,
+    "cityPop23": 993097,
+    "cityPop23_24": 31424,
+    "code_counter": "a233"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Pingxiang Jiangxi",
+    "cityPop": 1021575,
+    "cityPop23": 999721,
+    "cityPop23_24": 21854,
+    "code_counter": "a234"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhucheng",
+    "cityPop": 1019600,
+    "cityPop23": 991208,
+    "cityPop23_24": 28392,
+    "code_counter": "a235"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Leiyang",
+    "cityPop": 1013191,
+    "cityPop23": 978327,
+    "cityPop23_24": 34864,
+    "code_counter": "a236"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Laiwu",
+    "cityPop": 1009727,
+    "cityPop23": 986248,
+    "cityPop23_24": 23479,
+    "code_counter": "a237"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jixi Heilongjiang",
+    "cityPop": 1008989,
+    "cityPop23": 993175,
+    "cityPop23_24": 15814,
+    "code_counter": "a238"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jiujiang",
+    "cityPop": 1004247,
+    "cityPop23": 982777,
+    "cityPop23_24": 21470,
+    "code_counter": "a239"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Mudanjiang",
+    "cityPop": 992414,
+    "cityPop23": 975348,
+    "cityPop23_24": 17066,
+    "code_counter": "a240"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Guigang",
+    "cityPop": 990310,
+    "cityPop23": 967428,
+    "cityPop23_24": 22882,
+    "code_counter": "a241"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Hengshui",
+    "cityPop": 983694,
+    "cityPop23": 955663,
+    "cityPop23_24": 28031,
+    "code_counter": "a242"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhangzhou",
+    "cityPop": 980054,
+    "cityPop23": 955519,
+    "cityPop23_24": 24535,
+    "code_counter": "a243"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xinyu",
+    "cityPop": 979303,
+    "cityPop23": 952278,
+    "cityPop23_24": 27025,
+    "code_counter": "a244"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Linfen",
+    "cityPop": 978614,
+    "cityPop23": 951822,
+    "cityPop23_24": 26792,
+    "code_counter": "a245"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Tianmen",
+    "cityPop": 978317,
+    "cityPop23": 953768,
+    "cityPop23_24": 24549,
+    "code_counter": "a246"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yangjiang",
+    "cityPop": 976606,
+    "cityPop23": 956079,
+    "cityPop23_24": 20527,
+    "code_counter": "a247"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Liling",
+    "cityPop": 970907,
+    "cityPop23": 936997,
+    "cityPop23_24": 33910,
+    "code_counter": "a248"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Deyang",
+    "cityPop": 963160,
+    "cityPop23": 939166,
+    "cityPop23_24": 23994,
+    "code_counter": "a249"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Bengbu",
+    "cityPop": 959784,
+    "cityPop23": 944465,
+    "cityPop23_24": 15319,
+    "code_counter": "a250"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jiangyin",
+    "cityPop": 959250,
+    "cityPop23": 933395,
+    "cityPop23_24": 25855,
+    "code_counter": "a251"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Baishan",
+    "cityPop": 956976,
+    "cityPop23": 927532,
+    "cityPop23_24": 29444,
+    "code_counter": "a252"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Dandong",
+    "cityPop": 932648,
+    "cityPop23": 917936,
+    "cityPop23_24": 14712,
+    "code_counter": "a253"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Changzhi",
+    "cityPop": 930620,
+    "cityPop23": 910743,
+    "cityPop23_24": 19877,
+    "code_counter": "a254"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Changde",
+    "cityPop": 919026,
+    "cityPop23": 898338,
+    "cityPop23_24": 20688,
+    "code_counter": "a255"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Liaoyang",
+    "cityPop": 916238,
+    "cityPop23": 900692,
+    "cityPop23_24": 15546,
+    "code_counter": "a256"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Shangqiu",
+    "cityPop": 915823,
+    "cityPop23": 895111,
+    "cityPop23_24": 20712,
+    "code_counter": "a257"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Kuerle",
+    "cityPop": 906765,
+    "cityPop23": 875496,
+    "cityPop23_24": 31269,
+    "code_counter": "a258"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xingtai",
+    "cityPop": 904070,
+    "cityPop23": 886381,
+    "cityPop23_24": 17689,
+    "code_counter": "a259"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Quzhou",
+    "cityPop": 902621,
+    "cityPop23": 871457,
+    "cityPop23_24": 31164,
+    "code_counter": "a260"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Huangshi",
+    "cityPop": 893107,
+    "cityPop23": 876930,
+    "cityPop23_24": 16177,
+    "code_counter": "a261"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Fuxin",
+    "cityPop": 889767,
+    "cityPop23": 876131,
+    "cityPop23_24": 13636,
+    "code_counter": "a262"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yongzhou",
+    "cityPop": 883326,
+    "cityPop23": 860522,
+    "cityPop23_24": 22804,
+    "code_counter": "a263"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xinghua",
+    "cityPop": 882986,
+    "cityPop23": 861978,
+    "cityPop23_24": 21008,
+    "code_counter": "a264"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yibin",
+    "cityPop": 881480,
+    "cityPop23": 864910,
+    "cityPop23_24": 16570,
+    "code_counter": "a265"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xinyang",
+    "cityPop": 873268,
+    "cityPop23": 855191,
+    "cityPop23_24": 18077,
+    "code_counter": "a266"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Luzhou",
+    "cityPop": 870714,
+    "cityPop23": 857683,
+    "cityPop23_24": 13031,
+    "code_counter": "a267"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yangquan",
+    "cityPop": 869585,
+    "cityPop23": 851630,
+    "cityPop23_24": 17955,
+    "code_counter": "a268"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Huaihua",
+    "cityPop": 869575,
+    "cityPop23": 843754,
+    "cityPop23_24": 25821,
+    "code_counter": "a269"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xiaogan",
+    "cityPop": 869479,
+    "cityPop23": 849580,
+    "cityPop23_24": 19899,
+    "code_counter": "a270"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Tianshui",
+    "cityPop": 858672,
+    "cityPop23": 837479,
+    "cityPop23_24": 21193,
+    "code_counter": "a271"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Bozhou",
+    "cityPop": 854946,
+    "cityPop23": 830125,
+    "cityPop23_24": 24821,
+    "code_counter": "a272"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhuji",
+    "cityPop": 852608,
+    "cityPop23": 834782,
+    "cityPop23_24": 17826,
+    "code_counter": "a273"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Kunshan",
+    "cityPop": 851399,
+    "cityPop23": 826414,
+    "cityPop23_24": 24985,
+    "code_counter": "a274"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jincheng",
+    "cityPop": 841928,
+    "cityPop23": 818057,
+    "cityPop23_24": 23871,
+    "code_counter": "a275"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Heze",
+    "cityPop": 838928,
+    "cityPop23": 826777,
+    "cityPop23_24": 12151,
+    "code_counter": "a276"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Huludao",
+    "cityPop": 836344,
+    "cityPop23": 821132,
+    "cityPop23_24": 15212,
+    "code_counter": "a277"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Haicheng",
+    "cityPop": 834639,
+    "cityPop23": 821192,
+    "cityPop23_24": 13447,
+    "code_counter": "a278"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Taixing",
+    "cityPop": 830623,
+    "cityPop23": 811451,
+    "cityPop23_24": 19172,
+    "code_counter": "a279"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Liaocheng",
+    "cityPop": 830004,
+    "cityPop23": 813369,
+    "cityPop23_24": 16635,
+    "code_counter": "a280"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhumadian",
+    "cityPop": 829361,
+    "cityPop23": 804537,
+    "cityPop23_24": 24824,
+    "code_counter": "a281"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Langfang",
+    "cityPop": 827967,
+    "cityPop23": 807833,
+    "cityPop23_24": 20134,
+    "code_counter": "a282"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Anqiu",
+    "cityPop": 821765,
+    "cityPop23": 791931,
+    "cityPop23_24": 29834,
+    "code_counter": "a283"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Gaomi",
+    "cityPop": 821154,
+    "cityPop23": 797964,
+    "cityPop23_24": 23190,
+    "code_counter": "a284"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Hanchuan",
+    "cityPop": 818761,
+    "cityPop23": 795835,
+    "cityPop23_24": 22926,
+    "code_counter": "a285"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Meishan",
+    "cityPop": 818037,
+    "cityPop23": 796756,
+    "cityPop23_24": 21281,
+    "code_counter": "a286"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Danyang",
+    "cityPop": 810450,
+    "cityPop23": 789755,
+    "cityPop23_24": 20695,
+    "code_counter": "a287"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jiaozuo",
+    "cityPop": 808079,
+    "cityPop23": 796509,
+    "cityPop23_24": 11570,
+    "code_counter": "a288"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Anqing",
+    "cityPop": 795987,
+    "cityPop23": 779535,
+    "cityPop23_24": 16452,
+    "code_counter": "a289"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Linhai",
+    "cityPop": 795777,
+    "cityPop23": 776076,
+    "cityPop23_24": 19701,
+    "code_counter": "a290"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Shaoguan",
+    "cityPop": 794279,
+    "cityPop23": 784230,
+    "cityPop23_24": 10049,
+    "code_counter": "a291"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Erduosi-Ordoss",
+    "cityPop": 794143,
+    "cityPop23": 774321,
+    "cityPop23_24": 19822,
+    "code_counter": "a292"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yan'an",
+    "cityPop": 791839,
+    "cityPop23": 767188,
+    "cityPop23_24": 24651,
+    "code_counter": "a293"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Dengzhou",
+    "cityPop": 783041,
+    "cityPop23": 759150,
+    "cityPop23_24": 23891,
+    "code_counter": "a294"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zigong",
+    "cityPop": 779684,
+    "cityPop23": 768075,
+    "cityPop23_24": 11609,
+    "code_counter": "a295"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Qingyuan",
+    "cityPop": 778628,
+    "cityPop23": 766782,
+    "cityPop23_24": 11846,
+    "code_counter": "a296"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yuncheng",
+    "cityPop": 777193,
+    "cityPop23": 754711,
+    "cityPop23_24": 22482,
+    "code_counter": "a297"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Shaoyang",
+    "cityPop": 776404,
+    "cityPop23": 761169,
+    "cityPop23_24": 15235,
+    "code_counter": "a298"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yanji",
+    "cityPop": 775672,
+    "cityPop23": 757224,
+    "cityPop23_24": 18448,
+    "code_counter": "a299"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Yuxi",
+    "cityPop": 774356,
+    "cityPop23": 750102,
+    "cityPop23_24": 24254,
+    "code_counter": "a300"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Tongliao",
+    "cityPop": 772756,
+    "cityPop23": 756158,
+    "cityPop23_24": 16598,
+    "code_counter": "a301"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Tongling",
+    "cityPop": 770032,
+    "cityPop23": 752916,
+    "cityPop23_24": 17116,
+    "code_counter": "a302"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Wuzhou",
+    "cityPop": 768512,
+    "cityPop23": 751679,
+    "cityPop23_24": 16833,
+    "code_counter": "a303"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Dazhou",
+    "cityPop": 767532,
+    "cityPop23": 748257,
+    "cityPop23_24": 19275,
+    "code_counter": "a304"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Suining Sichuan",
+    "cityPop": 765887,
+    "cityPop23": 750097,
+    "cityPop23_24": 15790,
+    "code_counter": "a305"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Jiamusi",
+    "cityPop": 761903,
+    "cityPop23": 749763,
+    "cityPop23_24": 12140,
+    "code_counter": "a306"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Dongtai",
+    "cityPop": 756344,
+    "cityPop23": 738200,
+    "cityPop23_24": 18144,
+    "code_counter": "a307"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Zhangjiagang",
+    "cityPop": 755752,
+    "cityPop23": 733810,
+    "cityPop23_24": 21942,
+    "code_counter": "a308"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Xianyang Shaanxi",
+    "cityPop": 754446,
+    "cityPop23": 743491,
+    "cityPop23_24": 10955,
+    "code_counter": "a309"
+}, {
+    "code": "cn",
+    "country": "China",
+    "city": "Panzhihua",
+    "cityPop": 750036,
+    "cityPop23": 738495,
+    "cityPop23_24": 11541,
+    "code_counter": "a310"
+}, {
+    "code": "co",
+    "country": "Colombia",
+    "city": "Bogota",
+    "cityPop": 11658211,
+    "cityPop23": 11507960,
+    "cityPop23_24": 150251,
+    "code_counter": "a311"
+}, {
+    "code": "co",
+    "country": "Colombia",
+    "city": "Medellin",
+    "cityPop": 4137386,
+    "cityPop23": 4102308,
+    "cityPop23_24": 35078,
+    "code_counter": "a312"
+}, {
+    "code": "co",
+    "country": "Colombia",
+    "city": "Cali",
+    "cityPop": 2890433,
+    "cityPop23": 2863730,
+    "cityPop23_24": 26703,
+    "code_counter": "a313"
+}, {
+    "code": "co",
+    "country": "Colombia",
+    "city": "Barranquilla",
+    "cityPop": 2373302,
+    "cityPop23": 2349400,
+    "cityPop23_24": 23902,
+    "code_counter": "a314"
+}, {
+    "code": "co",
+    "country": "Colombia",
+    "city": "Bucaramanga",
+    "cityPop": 1396632,
+    "cityPop23": 1381498,
+    "cityPop23_24": 15134,
+    "code_counter": "a315"
+}, {
+    "code": "co",
+    "country": "Colombia",
+    "city": "Cartagena",
+    "cityPop": 1096463,
+    "cityPop23": 1087599,
+    "cityPop23_24": 8864,
+    "code_counter": "a316"
+}, {
+    "code": "co",
+    "country": "Colombia",
+    "city": "Cucuta",
+    "cityPop": 972485,
+    "cityPop23": 963045,
+    "cityPop23_24": 9440,
+    "code_counter": "a317"
+}, {
+    "code": "cr",
+    "country": "Costa Rica",
+    "city": "San Jose",
+    "cityPop": 1482460,
+    "cityPop23": 1461989,
+    "cityPop23_24": 20471,
+    "code_counter": "a318"
+}, {
+    "code": "cu",
+    "country": "Cuba",
+    "city": "Havana",
+    "cityPop": 2152518,
+    "cityPop23": 2148930,
+    "cityPop23_24": 3588,
+    "code_counter": "a319"
+}, {
+    "code": "cz",
+    "country": "Czech Republic",
+    "city": "Prague",
+    "cityPop": 1327947,
+    "cityPop23": 1323339,
+    "cityPop23_24": 4608,
+    "code_counter": "a320"
+}, {
+    "code": "dk",
+    "country": "Denmark",
+    "city": "Copenhagen",
+    "cityPop": 1391205,
+    "cityPop23": 1381005,
+    "cityPop23_24": 10200,
+    "code_counter": "a321"
+}, {
+    "code": "do",
+    "country": "Dominican Republic",
+    "city": "Santo Domingo",
+    "cityPop": 3587402,
+    "cityPop23": 3523890,
+    "cityPop23_24": 63512,
+    "code_counter": "a322"
+}, {
+    "code": "cd",
+    "country": "DR Congo",
+    "city": "Kinshasa",
+    "cityPop": 17032322,
+    "cityPop23": 16315534,
+    "cityPop23_24": 716788,
+    "code_counter": "a323"
+}, {
+    "code": "cd",
+    "country": "DR Congo",
+    "city": "Mbuji-Mayi",
+    "cityPop": 3022855,
+    "cityPop23": 2891746,
+    "cityPop23_24": 131109,
+    "code_counter": "a324"
+}, {
+    "code": "cd",
+    "country": "DR Congo",
+    "city": "Lubumbashi",
+    "cityPop": 2933962,
+    "cityPop23": 2811959,
+    "cityPop23_24": 122003,
+    "code_counter": "a325"
+}, {
+    "code": "cd",
+    "country": "DR Congo",
+    "city": "Kananga",
+    "cityPop": 1738716,
+    "cityPop23": 1664442,
+    "cityPop23_24": 74274,
+    "code_counter": "a326"
+}, {
+    "code": "cd",
+    "country": "DR Congo",
+    "city": "Kisangani",
+    "cityPop": 1483513,
+    "cityPop23": 1423395,
+    "cityPop23_24": 60118,
+    "code_counter": "a327"
+}, {
+    "code": "cd",
+    "country": "DR Congo",
+    "city": "Bukavu",
+    "cityPop": 1308469,
+    "cityPop23": 1248783,
+    "cityPop23_24": 59686,
+    "code_counter": "a328"
+}, {
+    "code": "cd",
+    "country": "DR Congo",
+    "city": "Tshikapa",
+    "cityPop": 1131226,
+    "cityPop23": 1077108,
+    "cityPop23_24": 54118,
+    "code_counter": "a329"
+}, {
+    "code": "cd",
+    "country": "DR Congo",
+    "city": "Bunia",
+    "cityPop": 856339,
+    "cityPop23": 812090,
+    "cityPop23_24": 44249,
+    "code_counter": "a330"
+}, {
+    "code": "cd",
+    "country": "DR Congo",
+    "city": "Goma",
+    "cityPop": 781875,
+    "cityPop23": 744247,
+    "cityPop23_24": 37628,
+    "code_counter": "a331"
+}, {
+    "code": "ec",
+    "country": "Ecuador",
+    "city": "Guayaquil",
+    "cityPop": 3193267,
+    "cityPop23": 3142466,
+    "cityPop23_24": 50801,
+    "code_counter": "a332"
+}, {
+    "code": "ec",
+    "country": "Ecuador",
+    "city": "Quito",
+    "cityPop": 1986667,
+    "cityPop23": 1956995,
+    "cityPop23_24": 29672,
+    "code_counter": "a333"
+}, {
+    "code": "eg",
+    "country": "Egypt",
+    "city": "Cairo",
+    "cityPop": 22623874,
+    "cityPop23": 22183201,
+    "cityPop23_24": 440673,
+    "code_counter": "a334"
+}, {
+    "code": "eg",
+    "country": "Egypt",
+    "city": "Alexandria",
+    "cityPop": 5696131,
+    "cityPop23": 5588477,
+    "cityPop23_24": 107654,
+    "code_counter": "a335"
+}, {
+    "code": "eg",
+    "country": "Egypt",
+    "city": "Bur Sa'id",
+    "cityPop": 792925,
+    "cityPop23": 778280,
+    "cityPop23_24": 14645,
+    "code_counter": "a336"
+}, {
+    "code": "sv",
+    "country": "El Salvador",
+    "city": "San Salvador",
+    "cityPop": 1123376,
+    "cityPop23": 1116052,
+    "cityPop23_24": 7324,
+    "code_counter": "a337"
+}, {
+    "code": "er",
+    "country": "Eritrea",
+    "city": "Asmara",
+    "cityPop": 1111748,
+    "cityPop23": 1072666,
+    "cityPop23_24": 39082,
+    "code_counter": "a338"
+}, {
+    "code": "et",
+    "country": "Ethiopia",
+    "city": "Addis Ababa",
+    "cityPop": 5703628,
+    "cityPop23": 5460591,
+    "cityPop23_24": 243037,
+    "code_counter": "a339"
+}, {
+    "code": "fi",
+    "country": "Finland",
+    "city": "Helsinki",
+    "cityPop": 1346810,
+    "cityPop23": 1337786,
+    "cityPop23_24": 9024,
+    "code_counter": "a340"
+}, {
+    "code": "fr",
+    "country": "France",
+    "city": "Paris",
+    "cityPop": 11276701,
+    "cityPop23": 11208440,
+    "cityPop23_24": 68261,
+    "code_counter": "a341"
+}, {
+    "code": "fr",
+    "country": "France",
+    "city": "Lyon",
+    "cityPop": 1774395,
+    "cityPop23": 1761188,
+    "cityPop23_24": 13207,
+    "code_counter": "a342"
+}, {
+    "code": "fr",
+    "country": "France",
+    "city": "Marseille",
+    "cityPop": 1635707,
+    "cityPop23": 1627549,
+    "cityPop23_24": 8158,
+    "code_counter": "a343"
+}, {
+    "code": "fr",
+    "country": "France",
+    "city": "Lille",
+    "cityPop": 1085199,
+    "cityPop23": 1079120,
+    "cityPop23_24": 6079,
+    "code_counter": "a344"
+}, {
+    "code": "fr",
+    "country": "France",
+    "city": "Toulouse",
+    "cityPop": 1070746,
+    "cityPop23": 1060460,
+    "cityPop23_24": 10286,
+    "code_counter": "a345"
+}, {
+    "code": "fr",
+    "country": "France",
+    "city": "Bordeaux",
+    "cityPop": 1009594,
+    "cityPop23": 1000475,
+    "cityPop23_24": 9119,
+    "code_counter": "a346"
+}, {
+    "code": "fr",
+    "country": "France",
+    "city": "Nice",
+    "cityPop": 951808,
+    "cityPop23": 948149,
+    "cityPop23_24": 3659,
+    "code_counter": "a347"
+}, {
+    "code": "ga",
+    "country": "Gabon",
+    "city": "Libreville",
+    "cityPop": 883920,
+    "cityPop23": 869773,
+    "cityPop23_24": 14147,
+    "code_counter": "a348"
+}, {
+    "code": "ge",
+    "country": "Georgia",
+    "city": "Tbilisi",
+    "cityPop": 1084471,
+    "cityPop23": 1082245,
+    "cityPop23_24": 2226,
+    "code_counter": "a349"
+}, {
+    "code": "de",
+    "country": "Germany",
+    "city": "Berlin",
+    "cityPop": 3576873,
+    "cityPop23": 3573938,
+    "cityPop23_24": 2935,
+    "code_counter": "a350"
+}, {
+    "code": "de",
+    "country": "Germany",
+    "city": "Hamburg",
+    "cityPop": 1787280,
+    "cityPop23": 1787520,
+    "cityPop23_24": -240,
+    "code_counter": "a351"
+}, {
+    "code": "de",
+    "country": "Germany",
+    "city": "Munich",
+    "cityPop": 1584507,
+    "cityPop23": 1576416,
+    "cityPop23_24": 8091,
+    "code_counter": "a352"
+}, {
+    "code": "de",
+    "country": "Germany",
+    "city": "Cologne",
+    "cityPop": 1149014,
+    "cityPop23": 1143715,
+    "cityPop23_24": 5299,
+    "code_counter": "a353"
+}, {
+    "code": "de",
+    "country": "Germany",
+    "city": "Frankfurt",
+    "cityPop": 800529,
+    "cityPop23": 796437,
+    "cityPop23_24": 4092,
+    "code_counter": "a354"
+}, {
+    "code": "gh",
+    "country": "Ghana",
+    "city": "Kumasi",
+    "cityPop": 3903481,
+    "cityPop23": 3768239,
+    "cityPop23_24": 135242,
+    "code_counter": "a355"
+}, {
+    "code": "gh",
+    "country": "Ghana",
+    "city": "Accra",
+    "cityPop": 2721165,
+    "cityPop23": 2660072,
+    "cityPop23_24": 61093,
+    "code_counter": "a356"
+}, {
+    "code": "gh",
+    "country": "Ghana",
+    "city": "Sekondi Takoradi",
+    "cityPop": 1119534,
+    "cityPop23": 1077929,
+    "cityPop23_24": 41605,
+    "code_counter": "a357"
+}, {
+    "code": "gh",
+    "country": "Ghana",
+    "city": "Tamale",
+    "cityPop": 757506,
+    "cityPop23": 729768,
+    "cityPop23_24": 27738,
+    "code_counter": "a358"
+}, {
+    "code": "gr",
+    "country": "Greece",
+    "city": "Athens",
+    "cityPop": 3154591,
+    "cityPop23": 3154463,
+    "cityPop23_24": 128,
+    "code_counter": "a359"
+}, {
+    "code": "gr",
+    "country": "Greece",
+    "city": "Thessaloniki",
+    "cityPop": 814980,
+    "cityPop23": 814524,
+    "cityPop23_24": 456,
+    "code_counter": "a360"
+}, {
+    "code": "gt",
+    "country": "Guatemala",
+    "city": "Guatemala City",
+    "cityPop": 3159631,
+    "cityPop23": 3095099,
+    "cityPop23_24": 64532,
+    "code_counter": "a361"
+}, {
+    "code": "gn",
+    "country": "Guinea",
+    "city": "Conakry",
+    "cityPop": 2178596,
+    "cityPop23": 2110937,
+    "cityPop23_24": 67659,
+    "code_counter": "a362"
+}, {
+    "code": "ht",
+    "country": "Haiti",
+    "city": "Port-au-Prince",
+    "cityPop": 3060169,
+    "cityPop23": 2987455,
+    "cityPop23_24": 72714,
+    "code_counter": "a363"
+}, {
+    "code": "hn",
+    "country": "Honduras",
+    "city": "Tegucigalpa",
+    "cityPop": 1609261,
+    "cityPop23": 1568025,
+    "cityPop23_24": 41236,
+    "code_counter": "a364"
+}, {
+    "code": "hn",
+    "country": "Honduras",
+    "city": "San Pedro Sula",
+    "cityPop": 1008220,
+    "cityPop23": 982021,
+    "cityPop23_24": 26199,
+    "code_counter": "a365"
+}, {
+    "code": "hk",
+    "country": "Hong Kong",
+    "city": "Hong Kong",
+    "cityPop": 7725859,
+    "cityPop23": 7684801,
+    "cityPop23_24": 41058,
+    "code_counter": "a366"
+}, {
+    "code": "hu",
+    "country": "Hungary",
+    "city": "Budapest",
+    "cityPop": 1780391,
+    "cityPop23": 1778052,
+    "cityPop23_24": 2339,
+    "code_counter": "a367"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Delhi",
+    "cityPop": 33807403,
+    "cityPop23": 32941309,
+    "cityPop23_24": 866094,
+    "code_counter": "a368"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Mumbai",
+    "cityPop": 21673149,
+    "cityPop23": 21296517,
+    "cityPop23_24": 376632,
+    "code_counter": "a369"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Kolkata",
+    "cityPop": 15570786,
+    "cityPop23": 15332793,
+    "cityPop23_24": 237993,
+    "code_counter": "a370"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Bangalore",
+    "cityPop": 14008262,
+    "cityPop23": 13607800,
+    "cityPop23_24": 400462,
+    "code_counter": "a371"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Chennai",
+    "cityPop": 12053697,
+    "cityPop23": 11776147,
+    "cityPop23_24": 277550,
+    "code_counter": "a372"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Hyderabad",
+    "cityPop": 11068877,
+    "cityPop23": 10801163,
+    "cityPop23_24": 267714,
+    "code_counter": "a373"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Ahmedabad",
+    "cityPop": 8854444,
+    "cityPop23": 8650605,
+    "cityPop23_24": 203839,
+    "code_counter": "a374"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Surat",
+    "cityPop": 8330528,
+    "cityPop23": 8064949,
+    "cityPop23_24": 265579,
+    "code_counter": "a375"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Pune",
+    "cityPop": 7345848,
+    "cityPop23": 7166374,
+    "cityPop23_24": 179474,
+    "code_counter": "a376"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Jaipur",
+    "cityPop": 4308510,
+    "cityPop23": 4207084,
+    "cityPop23_24": 101426,
+    "code_counter": "a377"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Kozhikode",
+    "cityPop": 4243962,
+    "cityPop23": 4088555,
+    "cityPop23_24": 155407,
+    "code_counter": "a378"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Malappuram",
+    "cityPop": 4184921,
+    "cityPop23": 4009087,
+    "cityPop23_24": 175834,
+    "code_counter": "a379"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Lucknow",
+    "cityPop": 4038214,
+    "cityPop23": 3945409,
+    "cityPop23_24": 92805,
+    "code_counter": "a380"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Thrissur",
+    "cityPop": 3605238,
+    "cityPop23": 3482456,
+    "cityPop23_24": 122782,
+    "code_counter": "a381"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Kochi",
+    "cityPop": 3507053,
+    "cityPop23": 3406055,
+    "cityPop23_24": 100998,
+    "code_counter": "a382"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Indore",
+    "cityPop": 3393380,
+    "cityPop23": 3302077,
+    "cityPop23_24": 91303,
+    "code_counter": "a383"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Kanpur",
+    "cityPop": 3286142,
+    "cityPop23": 3234160,
+    "cityPop23_24": 51982,
+    "code_counter": "a384"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Nagpur",
+    "cityPop": 3106340,
+    "cityPop23": 3046687,
+    "cityPop23_24": 59653,
+    "code_counter": "a385"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Coimbatore",
+    "cityPop": 3083721,
+    "cityPop23": 3009047,
+    "cityPop23_24": 74674,
+    "code_counter": "a386"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Thiruvananthapuram",
+    "cityPop": 2984154,
+    "cityPop23": 2891119,
+    "cityPop23_24": 93035,
+    "code_counter": "a387"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Patna",
+    "cityPop": 2633243,
+    "cityPop23": 2579762,
+    "cityPop23_24": 53481,
+    "code_counter": "a388"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Bhopal",
+    "cityPop": 2624865,
+    "cityPop23": 2564502,
+    "cityPop23_24": 60363,
+    "code_counter": "a389"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Agra",
+    "cityPop": 2422342,
+    "cityPop23": 2367554,
+    "cityPop23_24": 54788,
+    "code_counter": "a390"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Kannur",
+    "cityPop": 2405664,
+    "cityPop23": 2346137,
+    "cityPop23_24": 59527,
+    "code_counter": "a391"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Visakhapatnam",
+    "cityPop": 2385110,
+    "cityPop23": 2330928,
+    "cityPop23_24": 54182,
+    "code_counter": "a392"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Vadodara",
+    "cityPop": 2373365,
+    "cityPop23": 2324084,
+    "cityPop23_24": 49281,
+    "code_counter": "a393"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Nashik",
+    "cityPop": 2294299,
+    "cityPop23": 2237369,
+    "cityPop23_24": 56930,
+    "code_counter": "a394"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Vijayawada",
+    "cityPop": 2290785,
+    "cityPop23": 2229765,
+    "cityPop23_24": 61020,
+    "code_counter": "a395"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Kollam",
+    "cityPop": 2181940,
+    "cityPop23": 2106606,
+    "cityPop23_24": 75334,
+    "code_counter": "a396"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Rajkot",
+    "cityPop": 2096981,
+    "cityPop23": 2043107,
+    "cityPop23_24": 53874,
+    "code_counter": "a397"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Ludhiana",
+    "cityPop": 1988438,
+    "cityPop23": 1951085,
+    "cityPop23_24": 37353,
+    "code_counter": "a398"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Madurai",
+    "cityPop": 1871912,
+    "cityPop23": 1834279,
+    "cityPop23_24": 37633,
+    "code_counter": "a399"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Raipur",
+    "cityPop": 1871107,
+    "cityPop23": 1816813,
+    "cityPop23_24": 54294,
+    "code_counter": "a400"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Meerut",
+    "cityPop": 1835403,
+    "cityPop23": 1797805,
+    "cityPop23_24": 37598,
+    "code_counter": "a401"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Varanasi",
+    "cityPop": 1789047,
+    "cityPop23": 1754425,
+    "cityPop23_24": 34622,
+    "code_counter": "a402"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Srinagar",
+    "cityPop": 1737502,
+    "cityPop23": 1698277,
+    "cityPop23_24": 39225,
+    "code_counter": "a403"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Tiruppur",
+    "cityPop": 1731862,
+    "cityPop23": 1677173,
+    "cityPop23_24": 54689,
+    "code_counter": "a404"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Jamshedpur",
+    "cityPop": 1730521,
+    "cityPop23": 1695060,
+    "cityPop23_24": 35461,
+    "code_counter": "a405"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Aurangabad",
+    "cityPop": 1725283,
+    "cityPop23": 1683389,
+    "cityPop23_24": 41894,
+    "code_counter": "a406"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Jodhpur",
+    "cityPop": 1625325,
+    "cityPop23": 1586547,
+    "cityPop23_24": 38778,
+    "code_counter": "a407"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Ranchi",
+    "cityPop": 1584237,
+    "cityPop23": 1547258,
+    "cityPop23_24": 36979,
+    "code_counter": "a408"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Kota",
+    "cityPop": 1558468,
+    "cityPop23": 1516795,
+    "cityPop23_24": 41673,
+    "code_counter": "a409"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Jabalpur",
+    "cityPop": 1551004,
+    "cityPop23": 1522121,
+    "cityPop23_24": 28883,
+    "code_counter": "a410"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Asansol",
+    "cityPop": 1534081,
+    "cityPop23": 1505033,
+    "cityPop23_24": 29048,
+    "code_counter": "a411"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Gwalior",
+    "cityPop": 1508846,
+    "cityPop23": 1475016,
+    "cityPop23_24": 33830,
+    "code_counter": "a412"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Allahabad",
+    "cityPop": 1493346,
+    "cityPop23": 1465152,
+    "cityPop23_24": 28194,
+    "code_counter": "a413"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Amritsar",
+    "cityPop": 1480470,
+    "cityPop23": 1451748,
+    "cityPop23_24": 28722,
+    "code_counter": "a414"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Dhanbad",
+    "cityPop": 1414532,
+    "cityPop23": 1389776,
+    "cityPop23_24": 24756,
+    "code_counter": "a415"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Bareilly",
+    "cityPop": 1380715,
+    "cityPop23": 1348664,
+    "cityPop23_24": 32051,
+    "code_counter": "a416"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Aligarh",
+    "cityPop": 1346018,
+    "cityPop23": 1312369,
+    "cityPop23_24": 33649,
+    "code_counter": "a417"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Moradabad",
+    "cityPop": 1335966,
+    "cityPop23": 1301740,
+    "cityPop23_24": 34226,
+    "code_counter": "a418"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Mysore",
+    "cityPop": 1316461,
+    "cityPop23": 1288245,
+    "cityPop23_24": 28216,
+    "code_counter": "a419"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Durg-Bhilainagar",
+    "cityPop": 1289673,
+    "cityPop23": 1266034,
+    "cityPop23_24": 23639,
+    "code_counter": "a420"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Bhubaneswar",
+    "cityPop": 1289254,
+    "cityPop23": 1257642,
+    "cityPop23_24": 31612,
+    "code_counter": "a421"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Tiruchirappalli",
+    "cityPop": 1244978,
+    "cityPop23": 1221960,
+    "cityPop23_24": 23018,
+    "code_counter": "a422"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Chandigarh",
+    "cityPop": 1239699,
+    "cityPop23": 1214775,
+    "cityPop23_24": 24924,
+    "code_counter": "a423"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Saharanpur",
+    "cityPop": 1207856,
+    "cityPop23": 1171689,
+    "cityPop23_24": 36167,
+    "code_counter": "a424"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Hubli-Dharwad",
+    "cityPop": 1205428,
+    "cityPop23": 1181194,
+    "cityPop23_24": 24234,
+    "code_counter": "a425"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Guwahati",
+    "cityPop": 1199455,
+    "cityPop23": 1176330,
+    "cityPop23_24": 23125,
+    "code_counter": "a426"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Salem",
+    "cityPop": 1194757,
+    "cityPop23": 1169953,
+    "cityPop23_24": 24804,
+    "code_counter": "a427"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Siliguri",
+    "cityPop": 1159371,
+    "cityPop23": 1126249,
+    "cityPop23_24": 33122,
+    "code_counter": "a428"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Jalandhar",
+    "cityPop": 1142682,
+    "cityPop23": 1118826,
+    "cityPop23_24": 23856,
+    "code_counter": "a429"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Solapur",
+    "cityPop": 1088131,
+    "cityPop23": 1070322,
+    "cityPop23_24": 17809,
+    "code_counter": "a430"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Warangal",
+    "cityPop": 1055604,
+    "cityPop23": 1031090,
+    "cityPop23_24": 24514,
+    "code_counter": "a431"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Dehradun",
+    "cityPop": 1016402,
+    "cityPop23": 991876,
+    "cityPop23_24": 24526,
+    "code_counter": "a432"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Guntur",
+    "cityPop": 940205,
+    "cityPop23": 918324,
+    "cityPop23_24": 21881,
+    "code_counter": "a433"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Bhiwandi",
+    "cityPop": 924670,
+    "cityPop23": 906581,
+    "cityPop23_24": 18089,
+    "code_counter": "a434"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Puducherry",
+    "cityPop": 919280,
+    "cityPop23": 897983,
+    "cityPop23_24": 21297,
+    "code_counter": "a435"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Firozabad",
+    "cityPop": 918218,
+    "cityPop23": 894388,
+    "cityPop23_24": 23830,
+    "code_counter": "a436"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Cherthala",
+    "cityPop": 901820,
+    "cityPop23": 870465,
+    "cityPop23_24": 31355,
+    "code_counter": "a437"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Kottayam",
+    "cityPop": 853635,
+    "cityPop23": 818628,
+    "cityPop23_24": 35007,
+    "code_counter": "a438"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Nellore",
+    "cityPop": 837660,
+    "cityPop23": 816293,
+    "cityPop23_24": 21367,
+    "code_counter": "a439"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Bikaner",
+    "cityPop": 835802,
+    "cityPop23": 818566,
+    "cityPop23_24": 17236,
+    "code_counter": "a440"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Muzaffarnagar",
+    "cityPop": 814491,
+    "cityPop23": 791214,
+    "cityPop23_24": 23277,
+    "code_counter": "a441"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Kayamkulam",
+    "cityPop": 813379,
+    "cityPop23": 786192,
+    "cityPop23_24": 27187,
+    "code_counter": "a442"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Amravati",
+    "cityPop": 808263,
+    "cityPop23": 792620,
+    "cityPop23_24": 15643,
+    "code_counter": "a443"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Gorakhpur",
+    "cityPop": 801634,
+    "cityPop23": 788276,
+    "cityPop23_24": 13358,
+    "code_counter": "a444"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Cuttack",
+    "cityPop": 789558,
+    "cityPop23": 775559,
+    "cityPop23_24": 13999,
+    "code_counter": "a445"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Belgaum",
+    "cityPop": 783020,
+    "cityPop23": 767161,
+    "cityPop23_24": 15859,
+    "code_counter": "a446"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Malegaon",
+    "cityPop": 781925,
+    "cityPop23": 764628,
+    "cityPop23_24": 17297,
+    "code_counter": "a447"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Tirupati",
+    "cityPop": 775455,
+    "cityPop23": 752744,
+    "cityPop23_24": 22711,
+    "code_counter": "a448"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Mangalore",
+    "cityPop": 763312,
+    "cityPop23": 749073,
+    "cityPop23_24": 14239,
+    "code_counter": "a449"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Nanded Waghala",
+    "cityPop": 755577,
+    "cityPop23": 738552,
+    "cityPop23_24": 17025,
+    "code_counter": "a450"
+}, {
+    "code": "in",
+    "country": "India",
+    "city": "Bhavnagar",
+    "cityPop": 751493,
+    "cityPop23": 737128,
+    "cityPop23_24": 14365,
+    "code_counter": "a451"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "cityPop": 11436004,
+    "cityPop23": 11248839,
+    "cityPop23_24": 187165,
+    "code_counter": "a452"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Bekasi",
+    "cityPop": 3830678,
+    "cityPop23": 3729351,
+    "cityPop23_24": 101327,
+    "code_counter": "a453"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Depok",
+    "cityPop": 3133298,
+    "cityPop23": 3041229,
+    "cityPop23_24": 92069,
+    "code_counter": "a454"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Surabaya",
+    "cityPop": 3088748,
+    "cityPop23": 3044413,
+    "cityPop23_24": 44335,
+    "code_counter": "a455"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Bandung",
+    "cityPop": 2714215,
+    "cityPop23": 2674000,
+    "cityPop23_24": 40215,
+    "code_counter": "a456"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Tangerang",
+    "cityPop": 2570980,
+    "cityPop23": 2514077,
+    "cityPop23_24": 56903,
+    "code_counter": "a457"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Medan",
+    "cityPop": 2479070,
+    "cityPop23": 2439054,
+    "cityPop23_24": 40016,
+    "code_counter": "a458"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Semarang",
+    "cityPop": 2013571,
+    "cityPop23": 1975306,
+    "cityPop23_24": 38265,
+    "code_counter": "a459"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Palembang",
+    "cityPop": 1852673,
+    "cityPop23": 1818421,
+    "cityPop23_24": 34252,
+    "code_counter": "a460"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Batam",
+    "cityPop": 1806147,
+    "cityPop23": 1748142,
+    "cityPop23_24": 58005,
+    "code_counter": "a461"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Makassar",
+    "cityPop": 1704930,
+    "cityPop23": 1673094,
+    "cityPop23_24": 31836,
+    "code_counter": "a462"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Pekan Baru",
+    "cityPop": 1334532,
+    "cityPop23": 1303355,
+    "cityPop23_24": 31177,
+    "code_counter": "a463"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Tasikmalaya",
+    "cityPop": 1258124,
+    "cityPop23": 1213778,
+    "cityPop23_24": 44346,
+    "code_counter": "a464"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Bogor",
+    "cityPop": 1256155,
+    "cityPop23": 1231445,
+    "cityPop23_24": 24710,
+    "code_counter": "a465"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Bandar Lampung",
+    "cityPop": 1186233,
+    "cityPop23": 1162242,
+    "cityPop23_24": 23991,
+    "code_counter": "a466"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Samarinda",
+    "cityPop": 1128176,
+    "cityPop23": 1100324,
+    "cityPop23_24": 27852,
+    "code_counter": "a467"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Denpasar",
+    "cityPop": 1075244,
+    "cityPop23": 1053041,
+    "cityPop23_24": 22203,
+    "code_counter": "a468"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Padang",
+    "cityPop": 1052849,
+    "cityPop23": 1033645,
+    "cityPop23_24": 19204,
+    "code_counter": "a469"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Malang",
+    "cityPop": 933392,
+    "cityPop23": 919443,
+    "cityPop23_24": 13949,
+    "code_counter": "a470"
+}, {
+    "code": "id",
+    "country": "Indonesia",
+    "city": "Banjarmasin",
+    "cityPop": 785125,
+    "cityPop23": 770959,
+    "cityPop23_24": 14166,
+    "code_counter": "a471"
+}, {
+    "code": "ir",
+    "country": "Iran",
+    "city": "Tehran",
+    "cityPop": 9616007,
+    "cityPop23": 9499781,
+    "cityPop23_24": 116226,
+    "code_counter": "a472"
+}, {
+    "code": "ir",
+    "country": "Iran",
+    "city": "Mashhad",
+    "cityPop": 3415532,
+    "cityPop23": 3367852,
+    "cityPop23_24": 47680,
+    "code_counter": "a473"
+}, {
+    "code": "ir",
+    "country": "Iran",
+    "city": "Esfahan",
+    "cityPop": 2294589,
+    "cityPop23": 2258396,
+    "cityPop23_24": 36193,
+    "code_counter": "a474"
+}, {
+    "code": "ir",
+    "country": "Iran",
+    "city": "Shiraz",
+    "cityPop": 1742750,
+    "cityPop23": 1720954,
+    "cityPop23_24": 21796,
+    "code_counter": "a475"
+}, {
+    "code": "ir",
+    "country": "Iran",
+    "city": "Tabriz",
+    "cityPop": 1678028,
+    "cityPop23": 1660737,
+    "cityPop23_24": 17291,
+    "code_counter": "a476"
+}, {
+    "code": "ir",
+    "country": "Iran",
+    "city": "Karaj",
+    "cityPop": 1603011,
+    "cityPop23": 1593608,
+    "cityPop23_24": 9403,
+    "code_counter": "a477"
+}, {
+    "code": "ir",
+    "country": "Iran",
+    "city": "Qom",
+    "cityPop": 1373800,
+    "cityPop23": 1354174,
+    "cityPop23_24": 19626,
+    "code_counter": "a478"
+}, {
+    "code": "ir",
+    "country": "Iran",
+    "city": "Ahvaz",
+    "cityPop": 1309372,
+    "cityPop23": 1293619,
+    "cityPop23_24": 15753,
+    "code_counter": "a479"
+}, {
+    "code": "ir",
+    "country": "Iran",
+    "city": "Kermanshah",
+    "cityPop": 1101611,
+    "cityPop23": 1084623,
+    "cityPop23_24": 16988,
+    "code_counter": "a480"
+}, {
+    "code": "ir",
+    "country": "Iran",
+    "city": "Orumiyeh",
+    "cityPop": 848443,
+    "cityPop23": 835900,
+    "cityPop23_24": 12543,
+    "code_counter": "a481"
+}, {
+    "code": "iq",
+    "country": "Iraq",
+    "city": "Baghdad",
+    "cityPop": 7921134,
+    "cityPop23": 7711305,
+    "cityPop23_24": 209829,
+    "code_counter": "a482"
+}, {
+    "code": "iq",
+    "country": "Iraq",
+    "city": "Mosul",
+    "cityPop": 1847691,
+    "cityPop23": 1792020,
+    "cityPop23_24": 55671,
+    "code_counter": "a483"
+}, {
+    "code": "iq",
+    "country": "Iraq",
+    "city": "Basra",
+    "cityPop": 1485156,
+    "cityPop23": 1448124,
+    "cityPop23_24": 37032,
+    "code_counter": "a484"
+}, {
+    "code": "iq",
+    "country": "Iraq",
+    "city": "Kirkuk",
+    "cityPop": 1100390,
+    "cityPop23": 1074884,
+    "cityPop23_24": 25506,
+    "code_counter": "a485"
+}, {
+    "code": "iq",
+    "country": "Iraq",
+    "city": "Najaf",
+    "cityPop": 987814,
+    "cityPop23": 958487,
+    "cityPop23_24": 29327,
+    "code_counter": "a486"
+}, {
+    "code": "iq",
+    "country": "Iraq",
+    "city": "Erbil",
+    "cityPop": 917639,
+    "cityPop23": 896716,
+    "cityPop23_24": 20923,
+    "code_counter": "a487"
+}, {
+    "code": "iq",
+    "country": "Iraq",
+    "city": "Sulaimaniya",
+    "cityPop": 823199,
+    "cityPop23": 800793,
+    "cityPop23_24": 22406,
+    "code_counter": "a488"
+}, {
+    "code": "iq",
+    "country": "Iraq",
+    "city": "Amara",
+    "cityPop": 753708,
+    "cityPop23": 729276,
+    "cityPop23_24": 24432,
+    "code_counter": "a489"
+}, {
+    "code": "ie",
+    "country": "Ireland",
+    "city": "Dublin",
+    "cityPop": 1284551,
+    "cityPop23": 1270172,
+    "cityPop23_24": 14379,
+    "code_counter": "a490"
+}, {
+    "code": "il",
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "cityPop": 4495727,
+    "cityPop23": 4420855,
+    "cityPop23_24": 74872,
+    "code_counter": "a491"
+}, {
+    "code": "il",
+    "country": "Israel",
+    "city": "Haifa",
+    "cityPop": 1186475,
+    "cityPop23": 1174429,
+    "cityPop23_24": 12046,
+    "code_counter": "a492"
+}, {
+    "code": "il",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "cityPop": 983097,
+    "cityPop23": 969804,
+    "cityPop23_24": 13293,
+    "code_counter": "a493"
+}, {
+    "code": "it",
+    "country": "Italy",
+    "city": "Rome",
+    "cityPop": 4331974,
+    "cityPop23": 4315671,
+    "cityPop23_24": 16303,
+    "code_counter": "a494"
+}, {
+    "code": "it",
+    "country": "Italy",
+    "city": "Milan",
+    "cityPop": 3160631,
+    "cityPop23": 3154570,
+    "cityPop23_24": 6061,
+    "code_counter": "a495"
+}, {
+    "code": "it",
+    "country": "Italy",
+    "city": "Naples",
+    "cityPop": 2180027,
+    "cityPop23": 2179384,
+    "cityPop23_24": 643,
+    "code_counter": "a496"
+}, {
+    "code": "it",
+    "country": "Italy",
+    "city": "Turin",
+    "cityPop": 1805727,
+    "cityPop23": 1801944,
+    "cityPop23_24": 3783,
+    "code_counter": "a497"
+}, {
+    "code": "it",
+    "country": "Italy",
+    "city": "Bergamo",
+    "cityPop": 918675,
+    "cityPop23": 913376,
+    "cityPop23_24": 5299,
+    "code_counter": "a498"
+}, {
+    "code": "it",
+    "country": "Italy",
+    "city": "Palermo",
+    "cityPop": 850233,
+    "cityPop23": 849687,
+    "cityPop23_24": 546,
+    "code_counter": "a499"
+}, {
+    "code": "it",
+    "country": "Italy",
+    "city": "Bologna",
+    "cityPop": 816848,
+    "cityPop23": 814332,
+    "cityPop23_24": 2516,
+    "code_counter": "a500"
+}, {
+    "code": "ci",
+    "country": "Ivory Coast",
+    "city": "Abidjan",
+    "cityPop": 5866704,
+    "cityPop23": 5686350,
+    "cityPop23_24": 180354,
+    "code_counter": "a501"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Tokyo",
+    "cityPop": 37115035,
+    "cityPop23": 37194105,
+    "cityPop23_24": -79070,
+    "code_counter": "a502"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Osaka",
+    "cityPop": 18967459,
+    "cityPop23": 19013434,
+    "cityPop23_24": -45975,
+    "code_counter": "a503"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Nagoya",
+    "cityPop": 9556879,
+    "cityPop23": 9569328,
+    "cityPop23_24": -12449,
+    "code_counter": "a504"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Fukuoka",
+    "cityPop": 5478076,
+    "cityPop23": 5490271,
+    "cityPop23_24": -12195,
+    "code_counter": "a505"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Shizuoka",
+    "cityPop": 2935527,
+    "cityPop23": 2937359,
+    "cityPop23_24": -1832,
+    "code_counter": "a506"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Sapporo",
+    "cityPop": 2660947,
+    "cityPop23": 2666112,
+    "cityPop23_24": -5165,
+    "code_counter": "a507"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Sendai",
+    "cityPop": 2341433,
+    "cityPop23": 2342302,
+    "cityPop23_24": -869,
+    "code_counter": "a508"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Hiroshima",
+    "cityPop": 2062884,
+    "cityPop23": 2067591,
+    "cityPop23_24": -4707,
+    "code_counter": "a509"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Niigata",
+    "cityPop": 795916,
+    "cityPop23": 797865,
+    "cityPop23_24": -1949,
+    "code_counter": "a510"
+}, {
+    "code": "jo",
+    "country": "Jordan",
+    "city": "Amman",
+    "cityPop": 2252688,
+    "cityPop23": 2232240,
+    "cityPop23_24": 20448,
+    "code_counter": "a511"
+}, {
+    "code": "jo",
+    "country": "Jordan",
+    "city": "Zarqa",
+    "cityPop": 753392,
+    "cityPop23": 748428,
+    "cityPop23_24": 4964,
+    "code_counter": "a512"
+}, {
+    "code": "kz",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "cityPop": 2015209,
+    "cityPop23": 1987301,
+    "cityPop23_24": 27908,
+    "code_counter": "a513"
+}, {
+    "code": "kz",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "cityPop": 1324111,
+    "cityPop23": 1291280,
+    "cityPop23_24": 32831,
+    "code_counter": "a514"
+}, {
+    "code": "kz",
+    "country": "Kazakhstan",
+    "city": "Shimkent",
+    "cityPop": 1181020,
+    "cityPop23": 1155073,
+    "cityPop23_24": 25947,
+    "code_counter": "a515"
+}, {
+    "code": "ke",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "cityPop": 5541172,
+    "cityPop23": 5325160,
+    "cityPop23_24": 216012,
+    "code_counter": "a516"
+}, {
+    "code": "ke",
+    "country": "Kenya",
+    "city": "Mombasa",
+    "cityPop": 1495223,
+    "cityPop23": 1440396,
+    "cityPop23_24": 54827,
+    "code_counter": "a517"
+}, {
+    "code": "kw",
+    "country": "Kuwait",
+    "city": "Kuwait City",
+    "cityPop": 3353602,
+    "cityPop23": 3297759,
+    "cityPop23_24": 55843,
+    "code_counter": "a518"
+}, {
+    "code": "kg",
+    "country": "Kyrgyzstan",
+    "city": "Bishkek",
+    "cityPop": 1127721,
+    "cityPop23": 1104742,
+    "cityPop23_24": 22979,
+    "code_counter": "a519"
+}, {
+    "code": "lb",
+    "country": "Lebanon",
+    "city": "Beirut",
+    "cityPop": 2402485,
+    "cityPop23": 2421354,
+    "cityPop23_24": -18869,
+    "code_counter": "a520"
+}, {
+    "code": "lr",
+    "country": "Liberia",
+    "city": "Monrovia",
+    "cityPop": 1735365,
+    "cityPop23": 1678020,
+    "cityPop23_24": 57345,
+    "code_counter": "a521"
+}, {
+    "code": "ly",
+    "country": "Libya",
+    "city": "Tripoli",
+    "cityPop": 1192436,
+    "cityPop23": 1183292,
+    "cityPop23_24": 9144,
+    "code_counter": "a522"
+}, {
+    "code": "ly",
+    "country": "Libya",
+    "city": "Misratah",
+    "cityPop": 1011119,
+    "cityPop23": 984193,
+    "cityPop23_24": 26926,
+    "code_counter": "a523"
+}, {
+    "code": "ly",
+    "country": "Libya",
+    "city": "Banghazi",
+    "cityPop": 870502,
+    "cityPop23": 859209,
+    "cityPop23_24": 11293,
+    "code_counter": "a524"
+}, {
+    "code": "mg",
+    "country": "Madagascar",
+    "city": "Antananarivo",
+    "cityPop": 4048666,
+    "cityPop23": 3872264,
+    "cityPop23_24": 176402,
+    "code_counter": "a525"
+}, {
+    "code": "mw",
+    "country": "Malawi",
+    "city": "Lilongwe",
+    "cityPop": 1333096,
+    "cityPop23": 1276316,
+    "cityPop23_24": 56780,
+    "code_counter": "a526"
+}, {
+    "code": "mw",
+    "country": "Malawi",
+    "city": "Blantyre-Limbe",
+    "cityPop": 1070625,
+    "cityPop23": 1030974,
+    "cityPop23_24": 39651,
+    "code_counter": "a527"
+}, {
+    "code": "my",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "cityPop": 8815630,
+    "cityPop23": 8621724,
+    "cityPop23_24": 193906,
+    "code_counter": "a528"
+}, {
+    "code": "my",
+    "country": "Malaysia",
+    "city": "Johor Bahru",
+    "cityPop": 1107001,
+    "cityPop23": 1086214,
+    "cityPop23_24": 20787,
+    "code_counter": "a529"
+}, {
+    "code": "my",
+    "country": "Malaysia",
+    "city": "Ipoh",
+    "cityPop": 872424,
+    "cityPop23": 857225,
+    "cityPop23_24": 15199,
+    "code_counter": "a530"
+}, {
+    "code": "ml",
+    "country": "Mali",
+    "city": "Bamako",
+    "cityPop": 3050570,
+    "cityPop23": 2929373,
+    "cityPop23_24": 121197,
+    "code_counter": "a531"
+}, {
+    "code": "mr",
+    "country": "Mauritania",
+    "city": "Nouakchott",
+    "cityPop": 1552146,
+    "cityPop23": 1491958,
+    "cityPop23_24": 60188,
+    "code_counter": "a532"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "cityPop": 22505315,
+    "cityPop23": 22281442,
+    "cityPop23_24": 223873,
+    "code_counter": "a533"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "cityPop": 5499678,
+    "cityPop23": 5419880,
+    "cityPop23_24": 79798,
+    "code_counter": "a534"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Monterrey",
+    "cityPop": 5195355,
+    "cityPop23": 5116647,
+    "cityPop23_24": 78708,
+    "code_counter": "a535"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Puebla",
+    "cityPop": 3394342,
+    "cityPop23": 3344761,
+    "cityPop23_24": 49581,
+    "code_counter": "a536"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Toluca de Lerdo",
+    "cityPop": 2674336,
+    "cityPop23": 2626368,
+    "cityPop23_24": 47968,
+    "code_counter": "a537"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Tijuana",
+    "cityPop": 2297216,
+    "cityPop23": 2259787,
+    "cityPop23_24": 37429,
+    "code_counter": "a538"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Leon de los Ald..",
+    "cityPop": 1924435,
+    "cityPop23": 1898749,
+    "cityPop23_24": 25686,
+    "code_counter": "a539"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "La Laguna",
+    "cityPop": 1826135,
+    "cityPop23": 1780592,
+    "cityPop23_24": 45543,
+    "code_counter": "a540"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Ciudad Juarez",
+    "cityPop": 1604085,
+    "cityPop23": 1582313,
+    "cityPop23_24": 21772,
+    "code_counter": "a541"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Queretaro",
+    "cityPop": 1436818,
+    "cityPop23": 1413474,
+    "cityPop23_24": 23344,
+    "code_counter": "a542"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "San Luis Potosi",
+    "cityPop": 1292133,
+    "cityPop23": 1273325,
+    "cityPop23_24": 18808,
+    "code_counter": "a543"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Merida",
+    "cityPop": 1239654,
+    "cityPop23": 1220603,
+    "cityPop23_24": 19051,
+    "code_counter": "a544"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Mexicali",
+    "cityPop": 1196982,
+    "cityPop23": 1178477,
+    "cityPop23_24": 18505,
+    "code_counter": "a545"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Aguascalientes",
+    "cityPop": 1179301,
+    "cityPop23": 1161448,
+    "cityPop23_24": 17853,
+    "code_counter": "a546"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Cuernavaca",
+    "cityPop": 1140169,
+    "cityPop23": 1123843,
+    "cityPop23_24": 16326,
+    "code_counter": "a547"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Chihuahua",
+    "cityPop": 1135342,
+    "cityPop23": 1116295,
+    "cityPop23_24": 19047,
+    "code_counter": "a548"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Tampico",
+    "cityPop": 1062567,
+    "cityPop23": 1047251,
+    "cityPop23_24": 15316,
+    "code_counter": "a549"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Saltillo",
+    "cityPop": 1050320,
+    "cityPop23": 1034126,
+    "cityPop23_24": 16194,
+    "code_counter": "a550"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Cancun",
+    "cityPop": 1045005,
+    "cityPop23": 1022604,
+    "cityPop23_24": 22401,
+    "code_counter": "a551"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Acapulco de Juarez",
+    "cityPop": 1032772,
+    "cityPop23": 1018976,
+    "cityPop23_24": 13796,
+    "code_counter": "a552"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Morelia",
+    "cityPop": 1002461,
+    "cityPop23": 988744,
+    "cityPop23_24": 13717,
+    "code_counter": "a553"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Veracruz",
+    "cityPop": 968070,
+    "cityPop23": 955226,
+    "cityPop23_24": 12844,
+    "code_counter": "a554"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Reynosa",
+    "cityPop": 967627,
+    "cityPop23": 951417,
+    "cityPop23_24": 16210,
+    "code_counter": "a555"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Villahermosa",
+    "cityPop": 958118,
+    "cityPop23": 943530,
+    "cityPop23_24": 14588,
+    "code_counter": "a556"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Hermosillo",
+    "cityPop": 929961,
+    "cityPop23": 915060,
+    "cityPop23_24": 14901,
+    "code_counter": "a557"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Tuxtla Gutierrez",
+    "cityPop": 913075,
+    "cityPop23": 897694,
+    "cityPop23_24": 15381,
+    "code_counter": "a558"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Culiacan",
+    "cityPop": 903910,
+    "cityPop23": 888620,
+    "cityPop23_24": 15290,
+    "code_counter": "a559"
+}, {
+    "code": "mx",
+    "country": "Mexico",
+    "city": "Xalapa",
+    "cityPop": 822863,
+    "cityPop23": 811041,
+    "cityPop23_24": 11822,
+    "code_counter": "a560"
+}, {
+    "code": "mn",
+    "country": "Mongolia",
+    "city": "Ulaanbaatar",
+    "cityPop": 1699363,
+    "cityPop23": 1672627,
+    "cityPop23_24": 26736,
+    "code_counter": "a561"
+}, {
+    "code": "ma",
+    "country": "Morocco",
+    "city": "Casablanca",
+    "cityPop": 3950408,
+    "cityPop23": 3892837,
+    "cityPop23_24": 57571,
+    "code_counter": "a562"
+}, {
+    "code": "ma",
+    "country": "Morocco",
+    "city": "Rabat",
+    "cityPop": 1989197,
+    "cityPop23": 1959388,
+    "cityPop23_24": 29809,
+    "code_counter": "a563"
+}, {
+    "code": "ma",
+    "country": "Morocco",
+    "city": "Tanger",
+    "cityPop": 1348848,
+    "cityPop23": 1314178,
+    "cityPop23_24": 34670,
+    "code_counter": "a564"
+}, {
+    "code": "ma",
+    "country": "Morocco",
+    "city": "Fes",
+    "cityPop": 1313311,
+    "cityPop23": 1290039,
+    "cityPop23_24": 23272,
+    "code_counter": "a565"
+}, {
+    "code": "ma",
+    "country": "Morocco",
+    "city": "Marrakech",
+    "cityPop": 1067172,
+    "cityPop23": 1049690,
+    "cityPop23_24": 17482,
+    "code_counter": "a566"
+}, {
+    "code": "ma",
+    "country": "Morocco",
+    "city": "Agadir",
+    "cityPop": 998146,
+    "cityPop23": 979248,
+    "cityPop23_24": 18898,
+    "code_counter": "a567"
+}, {
+    "code": "mz",
+    "country": "Mozambique",
+    "city": "Matola",
+    "cityPop": 1915035,
+    "cityPop23": 1852405,
+    "cityPop23_24": 62630,
+    "code_counter": "a568"
+}, {
+    "code": "mz",
+    "country": "Mozambique",
+    "city": "Maputo",
+    "cityPop": 1193253,
+    "cityPop23": 1162793,
+    "cityPop23_24": 30460,
+    "code_counter": "a569"
+}, {
+    "code": "mz",
+    "country": "Mozambique",
+    "city": "Nampula",
+    "cityPop": 1012582,
+    "cityPop23": 969322,
+    "cityPop23_24": 43260,
+    "code_counter": "a570"
+}, {
+    "code": "mm",
+    "country": "Myanmar",
+    "city": "Yangon",
+    "cityPop": 5709678,
+    "cityPop23": 5610241,
+    "cityPop23_24": 99437,
+    "code_counter": "a571"
+}, {
+    "code": "mm",
+    "country": "Myanmar",
+    "city": "Mandalay",
+    "cityPop": 1563021,
+    "cityPop23": 1531860,
+    "cityPop23_24": 31161,
+    "code_counter": "a572"
+}, {
+    "code": "mm",
+    "country": "Myanmar",
+    "city": "Nay Pyi Taw",
+    "cityPop": 757823,
+    "cityPop23": 722836,
+    "cityPop23_24": 34987,
+    "code_counter": "a573"
+}, {
+    "code": "np",
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "cityPop": 1621642,
+    "cityPop23": 1571010,
+    "cityPop23_24": 50632,
+    "code_counter": "a574"
+}, {
+    "code": "nl",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "cityPop": 1181817,
+    "cityPop23": 1174025,
+    "cityPop23_24": 7792,
+    "code_counter": "a575"
+}, {
+    "code": "nl",
+    "country": "Netherlands",
+    "city": "Rotterdam",
+    "cityPop": 1021919,
+    "cityPop23": 1018012,
+    "cityPop23_24": 3907,
+    "code_counter": "a576"
+}, {
+    "code": "nz",
+    "country": "New Zealand",
+    "city": "Auckland",
+    "cityPop": 1692770,
+    "cityPop23": 1673220,
+    "cityPop23_24": 19550,
+    "code_counter": "a577"
+}, {
+    "code": "ni",
+    "country": "Nicaragua",
+    "city": "Managua",
+    "cityPop": 1107118,
+    "cityPop23": 1094510,
+    "cityPop23_24": 12608,
+    "code_counter": "a578"
+}, {
+    "code": "ne",
+    "country": "Niger",
+    "city": "Niamey",
+    "cityPop": 1496258,
+    "cityPop23": 1437233,
+    "cityPop23_24": 59025,
+    "code_counter": "a579"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "cityPop": 16536018,
+    "cityPop23": 15945912,
+    "cityPop23_24": 590106,
+    "code_counter": "a580"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Kano",
+    "cityPop": 4490734,
+    "cityPop23": 4348481,
+    "cityPop23_24": 142253,
+    "code_counter": "a581"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "cityPop": 4025735,
+    "cityPop23": 3839646,
+    "cityPop23_24": 186089,
+    "code_counter": "a582"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Ibadan",
+    "cityPop": 4004316,
+    "cityPop23": 3874908,
+    "cityPop23_24": 129408,
+    "code_counter": "a583"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Port Harcourt",
+    "cityPop": 3636547,
+    "cityPop23": 3480101,
+    "cityPop23_24": 156446,
+    "code_counter": "a584"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Benin City",
+    "cityPop": 1972558,
+    "cityPop23": 1904631,
+    "cityPop23_24": 67927,
+    "code_counter": "a585"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Onitsha",
+    "cityPop": 1694913,
+    "cityPop23": 1623382,
+    "cityPop23_24": 71531,
+    "code_counter": "a586"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Uyo",
+    "cityPop": 1393453,
+    "cityPop23": 1329284,
+    "cityPop23_24": 64169,
+    "code_counter": "a587"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Nnewi",
+    "cityPop": 1300993,
+    "cityPop23": 1239186,
+    "cityPop23_24": 61807,
+    "code_counter": "a588"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Aba",
+    "cityPop": 1230407,
+    "cityPop23": 1188803,
+    "cityPop23_24": 41604,
+    "code_counter": "a589"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Kaduna",
+    "cityPop": 1221451,
+    "cityPop23": 1187398,
+    "cityPop23_24": 34053,
+    "code_counter": "a590"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Ikorodu",
+    "cityPop": 1145224,
+    "cityPop23": 1093308,
+    "cityPop23_24": 51916,
+    "code_counter": "a591"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Ilorin",
+    "cityPop": 1063713,
+    "cityPop23": 1030498,
+    "cityPop23_24": 33215,
+    "code_counter": "a592"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Warri",
+    "cityPop": 1031425,
+    "cityPop23": 986921,
+    "cityPop23_24": 44504,
+    "code_counter": "a593"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Owerri",
+    "cityPop": 1022922,
+    "cityPop23": 983352,
+    "cityPop23_24": 39570,
+    "code_counter": "a594"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Jos",
+    "cityPop": 1001155,
+    "cityPop23": 970129,
+    "cityPop23_24": 31026,
+    "code_counter": "a595"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Umuahia",
+    "cityPop": 947460,
+    "cityPop23": 904139,
+    "cityPop23_24": 43321,
+    "code_counter": "a596"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Lokoja",
+    "cityPop": 885882,
+    "cityPop23": 839046,
+    "cityPop23_24": 46836,
+    "code_counter": "a597"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Enugu",
+    "cityPop": 875552,
+    "cityPop23": 846560,
+    "cityPop23_24": 28992,
+    "code_counter": "a598"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Maiduguri",
+    "cityPop": 870201,
+    "cityPop23": 844747,
+    "cityPop23_24": 25454,
+    "code_counter": "a599"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Oshogbo",
+    "cityPop": 795808,
+    "cityPop23": 771515,
+    "cityPop23_24": 24293,
+    "code_counter": "a600"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Zaria",
+    "cityPop": 786197,
+    "cityPop23": 766007,
+    "cityPop23_24": 20190,
+    "code_counter": "a601"
+}, {
+    "code": "ng",
+    "country": "Nigeria",
+    "city": "Akure",
+    "cityPop": 773141,
+    "cityPop23": 744371,
+    "cityPop23_24": 28770,
+    "code_counter": "a602"
+}, {
+    "code": "kp",
+    "country": "North Korea",
+    "city": "Pyongyang",
+    "cityPop": 3183135,
+    "cityPop23": 3157538,
+    "cityPop23_24": 25597,
+    "code_counter": "a603"
+}, {
+    "code": "no",
+    "country": "Norway",
+    "city": "Oslo",
+    "cityPop": 1100868,
+    "cityPop23": 1085992,
+    "cityPop23_24": 14876,
+    "code_counter": "a604"
+}, {
+    "code": "om",
+    "country": "Oman",
+    "city": "Muscat",
+    "cityPop": 1676167,
+    "cityPop23": 1650319,
+    "cityPop23_24": 25848,
+    "code_counter": "a605"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Karachi",
+    "cityPop": 17648555,
+    "cityPop23": 17236230,
+    "cityPop23_24": 412325,
+    "code_counter": "a606"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Lahore",
+    "cityPop": 14407074,
+    "cityPop23": 13979390,
+    "cityPop23_24": 427684,
+    "code_counter": "a607"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Faisalabad",
+    "cityPop": 3800193,
+    "cityPop23": 3710845,
+    "cityPop23_24": 89348,
+    "code_counter": "a608"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Peshawar",
+    "cityPop": 2480546,
+    "cityPop23": 2411785,
+    "cityPop23_24": 68761,
+    "code_counter": "a609"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Gujranwala",
+    "cityPop": 2479058,
+    "cityPop23": 2415416,
+    "cityPop23_24": 63642,
+    "code_counter": "a610"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Rawalpindi",
+    "cityPop": 2430388,
+    "cityPop23": 2377325,
+    "cityPop23_24": 53063,
+    "code_counter": "a611"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Multan",
+    "cityPop": 2205407,
+    "cityPop23": 2154600,
+    "cityPop23_24": 50807,
+    "code_counter": "a612"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Hyderabad",
+    "cityPop": 2011964,
+    "cityPop23": 1967684,
+    "cityPop23_24": 44280,
+    "code_counter": "a613"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "cityPop": 1266792,
+    "cityPop23": 1232447,
+    "cityPop23_24": 34345,
+    "code_counter": "a614"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Quetta",
+    "cityPop": 1221495,
+    "cityPop23": 1190348,
+    "cityPop23_24": 31147,
+    "code_counter": "a615"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Bahawalpur",
+    "cityPop": 944812,
+    "cityPop23": 919654,
+    "cityPop23_24": 25158,
+    "code_counter": "a616"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Sialkot",
+    "cityPop": 770962,
+    "cityPop23": 753325,
+    "cityPop23_24": 17637,
+    "code_counter": "a617"
+}, {
+    "code": "pk",
+    "country": "Pakistan",
+    "city": "Sargodha",
+    "cityPop": 757915,
+    "cityPop23": 741818,
+    "cityPop23_24": 16097,
+    "code_counter": "a618"
+}, {
+    "code": "ps",
+    "country": "Palestine",
+    "city": "Gaza",
+    "cityPop": 800636,
+    "cityPop23": 778187,
+    "cityPop23_24": 22449,
+    "code_counter": "a619"
+}, {
+    "code": "pa",
+    "country": "Panama",
+    "city": "Panama City",
+    "cityPop": 2015735,
+    "cityPop23": 1976866,
+    "cityPop23_24": 38869,
+    "code_counter": "a620"
+}, {
+    "code": "py",
+    "country": "Paraguay",
+    "city": "Asuncion",
+    "cityPop": 3568830,
+    "cityPop23": 3510511,
+    "cityPop23_24": 58319,
+    "code_counter": "a621"
+}, {
+    "code": "pe",
+    "country": "Peru",
+    "city": "Lima",
+    "cityPop": 11361938,
+    "cityPop23": 11204382,
+    "cityPop23_24": 157556,
+    "code_counter": "a622"
+}, {
+    "code": "pe",
+    "country": "Peru",
+    "city": "Arequipa",
+    "cityPop": 971296,
+    "cityPop23": 958998,
+    "cityPop23_24": 12298,
+    "code_counter": "a623"
+}, {
+    "code": "pe",
+    "country": "Peru",
+    "city": "Trujillo",
+    "cityPop": 916632,
+    "cityPop23": 903896,
+    "cityPop23_24": 12736,
+    "code_counter": "a624"
+}, {
+    "code": "ph",
+    "country": "Philippines",
+    "city": "Manila",
+    "cityPop": 14941953,
+    "cityPop23": 14667089,
+    "cityPop23_24": 274864,
+    "code_counter": "a625"
+}, {
+    "code": "ph",
+    "country": "Philippines",
+    "city": "Davao City",
+    "cityPop": 1991457,
+    "cityPop23": 1949400,
+    "cityPop23_24": 42057,
+    "code_counter": "a626"
+}, {
+    "code": "ph",
+    "country": "Philippines",
+    "city": "Cebu City",
+    "cityPop": 1042613,
+    "cityPop23": 1024945,
+    "cityPop23_24": 17668,
+    "code_counter": "a627"
+}, {
+    "code": "ph",
+    "country": "Philippines",
+    "city": "Zamboanga City",
+    "cityPop": 977081,
+    "cityPop23": 960349,
+    "cityPop23_24": 16732,
+    "code_counter": "a628"
+}, {
+    "code": "ph",
+    "country": "Philippines",
+    "city": "Antipolo",
+    "cityPop": 968288,
+    "cityPop23": 946653,
+    "cityPop23_24": 21635,
+    "code_counter": "a629"
+}, {
+    "code": "ph",
+    "country": "Philippines",
+    "city": "Dasmarinas",
+    "cityPop": 820886,
+    "cityPop23": 802600,
+    "cityPop23_24": 18286,
+    "code_counter": "a630"
+}, {
+    "code": "ph",
+    "country": "Philippines",
+    "city": "Caga.. de Oro City",
+    "cityPop": 820297,
+    "cityPop23": 803194,
+    "cityPop23_24": 17103,
+    "code_counter": "a631"
+}, {
+    "code": "ph",
+    "country": "Philippines",
+    "city": "Bacoor",
+    "cityPop": 757035,
+    "cityPop23": 739682,
+    "cityPop23_24": 17353,
+    "code_counter": "a632"
+}, {
+    "code": "pl",
+    "country": "Poland",
+    "city": "Warsaw",
+    "cityPop": 1799451,
+    "cityPop23": 1797516,
+    "cityPop23_24": 1935,
+    "code_counter": "a633"
+}, {
+    "code": "pl",
+    "country": "Poland",
+    "city": "Krakow",
+    "cityPop": 769396,
+    "cityPop23": 769417,
+    "cityPop23_24": -21,
+    "code_counter": "a634"
+}, {
+    "code": "pt",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "cityPop": 3014607,
+    "cityPop23": 3000536,
+    "cityPop23_24": 14071,
+    "code_counter": "a635"
+}, {
+    "code": "pt",
+    "country": "Portugal",
+    "city": "Porto",
+    "cityPop": 1329301,
+    "cityPop23": 1324652,
+    "cityPop23_24": 4649,
+    "code_counter": "a636"
+}, {
+    "code": "pr",
+    "country": "Puerto Rico",
+    "city": "San Juan",
+    "cityPop": 2436620,
+    "cityPop23": 2439564,
+    "cityPop23_24": -2944,
+    "code_counter": "a637"
+}, {
+    "code": "qa",
+    "country": "Qatar",
+    "city": "Ar-Rayyan",
+    "cityPop": 815869,
+    "cityPop23": 798382,
+    "cityPop23_24": 17487,
+    "code_counter": "a638"
+}, {
+    "code": "cg",
+    "country": "Republic of the Congo",
+    "city": "Brazzaville",
+    "cityPop": 2724566,
+    "cityPop23": 2637733,
+    "cityPop23_24": 86833,
+    "code_counter": "a639"
+}, {
+    "code": "cg",
+    "country": "Republic of the Congo",
+    "city": "Pointe-Noire",
+    "cityPop": 1379368,
+    "cityPop23": 1336387,
+    "cityPop23_24": 42981,
+    "code_counter": "a640"
+}, {
+    "code": "ro",
+    "country": "Romania",
+    "city": "Bucharest",
+    "cityPop": 1767520,
+    "cityPop23": 1776385,
+    "cityPop23_24": -8865,
+    "code_counter": "a641"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Moscow",
+    "cityPop": 12712305,
+    "cityPop23": 12680389,
+    "cityPop23_24": 31916,
+    "code_counter": "a642"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Saint Petersburg",
+    "cityPop": 5581707,
+    "cityPop23": 5561294,
+    "cityPop23_24": 20413,
+    "code_counter": "a643"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Novosibirsk",
+    "cityPop": 1701510,
+    "cityPop23": 1694765,
+    "cityPop23_24": 6745,
+    "code_counter": "a644"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Yekaterinburg",
+    "cityPop": 1532970,
+    "cityPop23": 1527728,
+    "cityPop23_24": 5242,
+    "code_counter": "a645"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Kazan",
+    "cityPop": 1296232,
+    "cityPop23": 1291884,
+    "cityPop23_24": 4348,
+    "code_counter": "a646"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Nizhniy Novgorod",
+    "cityPop": 1250302,
+    "cityPop23": 1251332,
+    "cityPop23_24": -1030,
+    "code_counter": "a647"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Chelyabinsk",
+    "cityPop": 1243883,
+    "cityPop23": 1240926,
+    "cityPop23_24": 2957,
+    "code_counter": "a648"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Omsk",
+    "cityPop": 1180677,
+    "cityPop23": 1180745,
+    "cityPop23_24": -68,
+    "code_counter": "a649"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Krasnoyarsk",
+    "cityPop": 1173095,
+    "cityPop23": 1166792,
+    "cityPop23_24": 6303,
+    "code_counter": "a650"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Samara",
+    "cityPop": 1154451,
+    "cityPop23": 1155732,
+    "cityPop23_24": -1281,
+    "code_counter": "a651"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Ufa",
+    "cityPop": 1146786,
+    "cityPop23": 1144799,
+    "cityPop23_24": 1987,
+    "code_counter": "a652"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Rostov-on-Don",
+    "cityPop": 1139641,
+    "cityPop23": 1138854,
+    "cityPop23_24": 787,
+    "code_counter": "a653"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Perm",
+    "cityPop": 1084120,
+    "cityPop23": 1081768,
+    "cityPop23_24": 2352,
+    "code_counter": "a654"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Voronezh",
+    "cityPop": 1083724,
+    "cityPop23": 1080808,
+    "cityPop23_24": 2916,
+    "code_counter": "a655"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Krasnodar",
+    "cityPop": 1010552,
+    "cityPop23": 1001155,
+    "cityPop23_24": 9397,
+    "code_counter": "a656"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Volgograd",
+    "cityPop": 993352,
+    "cityPop23": 995078,
+    "cityPop23_24": -1726,
+    "code_counter": "a657"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Tyumen",
+    "cityPop": 916862,
+    "cityPop23": 903815,
+    "cityPop23_24": 13047,
+    "code_counter": "a658"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Saratov",
+    "cityPop": 837687,
+    "cityPop23": 838377,
+    "cityPop23_24": -690,
+    "code_counter": "a659"
+}, {
+    "code": "rw",
+    "country": "Rwanda",
+    "city": "Kigali",
+    "cityPop": 1287952,
+    "cityPop23": 1247551,
+    "cityPop23_24": 40401,
+    "code_counter": "a660"
+}, {
+    "code": "sa",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "cityPop": 7820551,
+    "cityPop23": 7682430,
+    "cityPop23_24": 138121,
+    "code_counter": "a661"
+}, {
+    "code": "sa",
+    "country": "Saudi Arabia",
+    "city": "Jiddah",
+    "cityPop": 4943210,
+    "cityPop23": 4862941,
+    "cityPop23_24": 80269,
+    "code_counter": "a662"
+}, {
+    "code": "sa",
+    "country": "Saudi Arabia",
+    "city": "Mecca",
+    "cityPop": 2184560,
+    "cityPop23": 2149928,
+    "cityPop23_24": 34632,
+    "code_counter": "a663"
+}, {
+    "code": "sa",
+    "country": "Saudi Arabia",
+    "city": "Medina",
+    "cityPop": 1598976,
+    "cityPop23": 1572571,
+    "cityPop23_24": 26405,
+    "code_counter": "a664"
+}, {
+    "code": "sa",
+    "country": "Saudi Arabia",
+    "city": "Ad-Dammam",
+    "cityPop": 1352912,
+    "cityPop23": 1329291,
+    "cityPop23_24": 23621,
+    "code_counter": "a665"
+}, {
+    "code": "sa",
+    "country": "Saudi Arabia",
+    "city": "Hufuf-Mubarraz",
+    "cityPop": 884753,
+    "cityPop23": 872438,
+    "cityPop23_24": 12315,
+    "code_counter": "a666"
+}, {
+    "code": "sn",
+    "country": "Senegal",
+    "city": "Dakar",
+    "cityPop": 3540462,
+    "cityPop23": 3429536,
+    "cityPop23_24": 110926,
+    "code_counter": "a667"
+}, {
+    "code": "rs",
+    "country": "Serbia",
+    "city": "Belgrade",
+    "cityPop": 1410697,
+    "cityPop23": 1408144,
+    "cityPop23_24": 2553,
+    "code_counter": "a668"
+}, {
+    "code": "sl",
+    "country": "Sierra Leone",
+    "city": "Freetown",
+    "cityPop": 1347559,
+    "cityPop23": 1309168,
+    "cityPop23_24": 38391,
+    "code_counter": "a669"
+}, {
+    "code": "sg",
+    "country": "Singapore",
+    "city": "Singapore",
+    "cityPop": 6119203,
+    "cityPop23": 6080859,
+    "cityPop23_24": 38344,
+    "code_counter": "a670"
+}, {
+    "code": "so",
+    "country": "Somalia",
+    "city": "Mogadishu",
+    "cityPop": 2726815,
+    "cityPop23": 2610483,
+    "cityPop23_24": 116332,
+    "code_counter": "a671"
+}, {
+    "code": "so",
+    "country": "Somalia",
+    "city": "Hargeysa",
+    "cityPop": 1176617,
+    "cityPop23": 1127198,
+    "cityPop23_24": 49419,
+    "code_counter": "a672"
+}, {
+    "code": "so",
+    "country": "Somalia",
+    "city": "Merca",
+    "cityPop": 793545,
+    "cityPop23": 760129,
+    "cityPop23_24": 33416,
+    "code_counter": "a673"
+}, {
+    "code": "za",
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "cityPop": 6324351,
+    "cityPop23": 6198016,
+    "cityPop23_24": 126335,
+    "code_counter": "a674"
+}, {
+    "code": "za",
+    "country": "South Africa",
+    "city": "Cape Town",
+    "cityPop": 4977833,
+    "cityPop23": 4890280,
+    "cityPop23_24": 87553,
+    "code_counter": "a675"
+}, {
+    "code": "za",
+    "country": "South Africa",
+    "city": "Ekurhuleni",
+    "cityPop": 4190832,
+    "cityPop23": 4118327,
+    "cityPop23_24": 72505,
+    "code_counter": "a676"
+}, {
+    "code": "za",
+    "country": "South Africa",
+    "city": "Durban",
+    "cityPop": 3262128,
+    "cityPop23": 3228003,
+    "cityPop23_24": 34125,
+    "code_counter": "a677"
+}, {
+    "code": "za",
+    "country": "South Africa",
+    "city": "Pretoria",
+    "cityPop": 2889899,
+    "cityPop23": 2818100,
+    "cityPop23_24": 71799,
+    "code_counter": "a678"
+}, {
+    "code": "za",
+    "country": "South Africa",
+    "city": "Port Elizabeth",
+    "cityPop": 1312631,
+    "cityPop23": 1295928,
+    "cityPop23_24": 16703,
+    "code_counter": "a679"
+}, {
+    "code": "za",
+    "country": "South Africa",
+    "city": "West Rand",
+    "cityPop": 947734,
+    "cityPop23": 934341,
+    "cityPop23_24": 13393,
+    "code_counter": "a680"
+}, {
+    "code": "za",
+    "country": "South Africa",
+    "city": "Soshanguve",
+    "cityPop": 905868,
+    "cityPop23": 892254,
+    "cityPop23_24": 13614,
+    "code_counter": "a681"
+}, {
+    "code": "za",
+    "country": "South Africa",
+    "city": "Vereeniging",
+    "cityPop": 802900,
+    "cityPop23": 793927,
+    "cityPop23_24": 8973,
+    "code_counter": "a682"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Seoul",
+    "cityPop": 10004840,
+    "cityPop23": 9988049,
+    "cityPop23_24": 16791,
+    "code_counter": "a683"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Busan",
+    "cityPop": 3477419,
+    "cityPop23": 3471949,
+    "cityPop23_24": 5470,
+    "code_counter": "a684"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Incheon",
+    "cityPop": 2861686,
+    "cityPop23": 2848557,
+    "cityPop23_24": 13129,
+    "code_counter": "a685"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Daegu",
+    "cityPop": 2179929,
+    "cityPop23": 2180997,
+    "cityPop23_24": -1068,
+    "code_counter": "a686"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Daejon",
+    "cityPop": 1581705,
+    "cityPop23": 1577436,
+    "cityPop23_24": 4269,
+    "code_counter": "a687"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Gwangju",
+    "cityPop": 1532902,
+    "cityPop23": 1529472,
+    "cityPop23_24": 3430,
+    "code_counter": "a688"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Suweon",
+    "cityPop": 1378229,
+    "cityPop23": 1365352,
+    "cityPop23_24": 12877,
+    "code_counter": "a689"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Yongin",
+    "cityPop": 1147967,
+    "cityPop23": 1135671,
+    "cityPop23_24": 12296,
+    "code_counter": "a690"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Goyang",
+    "cityPop": 1114079,
+    "cityPop23": 1105283,
+    "cityPop23_24": 8796,
+    "code_counter": "a691"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Changwon",
+    "cityPop": 1055373,
+    "cityPop23": 1054442,
+    "cityPop23_24": 931,
+    "code_counter": "a692"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Seongnam",
+    "cityPop": 942159,
+    "cityPop23": 941508,
+    "cityPop23_24": 651,
+    "code_counter": "a693"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Ulsan",
+    "cityPop": 914300,
+    "cityPop23": 912734,
+    "cityPop23_24": 1566,
+    "code_counter": "a694"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Bucheon",
+    "cityPop": 826919,
+    "cityPop23": 826981,
+    "cityPop23_24": -62,
+    "code_counter": "a695"
+}, {
+    "code": "kr",
+    "country": "South Korea",
+    "city": "Ansan",
+    "cityPop": 768822,
+    "cityPop23": 766703,
+    "cityPop23_24": 2119,
+    "code_counter": "a696"
+}, {
+    "code": "es",
+    "country": "Spain",
+    "city": "Madrid",
+    "cityPop": 6783241,
+    "cityPop23": 6751374,
+    "cityPop23_24": 31867,
+    "code_counter": "a697"
+}, {
+    "code": "es",
+    "country": "Spain",
+    "city": "Barcelona",
+    "cityPop": 5711917,
+    "cityPop23": 5687356,
+    "cityPop23_24": 24561,
+    "code_counter": "a698"
+}, {
+    "code": "es",
+    "country": "Spain",
+    "city": "Valencia",
+    "cityPop": 839770,
+    "cityPop23": 838301,
+    "cityPop23_24": 1469,
+    "code_counter": "a699"
+}, {
+    "code": "sd",
+    "country": "Sudan",
+    "city": "Khartoum",
+    "cityPop": 6542070,
+    "cityPop23": 6344348,
+    "cityPop23_24": 197722,
+    "code_counter": "a700"
+}, {
+    "code": "sd",
+    "country": "Sudan",
+    "city": "Nyala",
+    "cityPop": 1101314,
+    "cityPop23": 1056952,
+    "cityPop23_24": 44362,
+    "code_counter": "a701"
+}, {
+    "code": "se",
+    "country": "Sweden",
+    "city": "Stockholm",
+    "cityPop": 1719604,
+    "cityPop23": 1700066,
+    "cityPop23_24": 19538,
+    "code_counter": "a702"
+}, {
+    "code": "ch",
+    "country": "Switzerland",
+    "city": "Zurich",
+    "cityPop": 1443349,
+    "cityPop23": 1431538,
+    "cityPop23_24": 11811,
+    "code_counter": "a703"
+}, {
+    "code": "sy",
+    "country": "Syria",
+    "city": "Damascus",
+    "cityPop": 2685361,
+    "cityPop23": 2584771,
+    "cityPop23_24": 100590,
+    "code_counter": "a704"
+}, {
+    "code": "sy",
+    "country": "Syria",
+    "city": "Aleppo",
+    "cityPop": 2317650,
+    "cityPop23": 2203025,
+    "cityPop23_24": 114625,
+    "code_counter": "a705"
+}, {
+    "code": "sy",
+    "country": "Syria",
+    "city": "Homs",
+    "cityPop": 1499603,
+    "cityPop23": 1443429,
+    "cityPop23_24": 56174,
+    "code_counter": "a706"
+}, {
+    "code": "sy",
+    "country": "Syria",
+    "city": "Hamah",
+    "cityPop": 1034498,
+    "cityPop23": 995747,
+    "cityPop23_24": 38751,
+    "code_counter": "a707"
+}, {
+    "code": "tw",
+    "country": "Taiwan",
+    "city": "New Taipei",
+    "cityPop": 4534877,
+    "cityPop23": 4504147,
+    "cityPop23_24": 30730,
+    "code_counter": "a708"
+}, {
+    "code": "tw",
+    "country": "Taiwan",
+    "city": "Taipei",
+    "cityPop": 2766334,
+    "cityPop23": 2754196,
+    "cityPop23_24": 12138,
+    "code_counter": "a709"
+}, {
+    "code": "tw",
+    "country": "Taiwan",
+    "city": "Taoyuan",
+    "cityPop": 2338724,
+    "cityPop23": 2318850,
+    "cityPop23_24": 19874,
+    "code_counter": "a710"
+}, {
+    "code": "tw",
+    "country": "Taiwan",
+    "city": "Gaoxiong",
+    "cityPop": 1559085,
+    "cityPop23": 1552899,
+    "cityPop23_24": 6186,
+    "code_counter": "a711"
+}, {
+    "code": "tw",
+    "country": "Taiwan",
+    "city": "Taizhong",
+    "cityPop": 1381855,
+    "cityPop23": 1369066,
+    "cityPop23_24": 12789,
+    "code_counter": "a712"
+}, {
+    "code": "tw",
+    "country": "Taiwan",
+    "city": "Tainan",
+    "cityPop": 875392,
+    "cityPop23": 869625,
+    "cityPop23_24": 5767,
+    "code_counter": "a713"
+}, {
+    "code": "tj",
+    "country": "Tajikistan",
+    "city": "Dushanbe",
+    "cityPop": 1012794,
+    "cityPop23": 986899,
+    "cityPop23_24": 25895,
+    "code_counter": "a714"
+}, {
+    "code": "tz",
+    "country": "Tanzania",
+    "city": "Dar es Salaam",
+    "cityPop": 8161231,
+    "cityPop23": 7775865,
+    "cityPop23_24": 385366,
+    "code_counter": "a715"
+}, {
+    "code": "tz",
+    "country": "Tanzania",
+    "city": "Mwanza",
+    "cityPop": 1378014,
+    "cityPop23": 1310754,
+    "cityPop23_24": 67260,
+    "code_counter": "a716"
+}, {
+    "code": "tz",
+    "country": "Tanzania",
+    "city": "Zanzibar",
+    "cityPop": 835850,
+    "cityPop23": 800010,
+    "cityPop23_24": 35840,
+    "code_counter": "a717"
+}, {
+    "code": "th",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "cityPop": 11233869,
+    "cityPop23": 11069982,
+    "cityPop23_24": 163887,
+    "code_counter": "a718"
+}, {
+    "code": "th",
+    "country": "Thailand",
+    "city": "Chon Buri",
+    "cityPop": 1472709,
+    "cityPop23": 1454222,
+    "cityPop23_24": 18487,
+    "code_counter": "a719"
+}, {
+    "code": "th",
+    "country": "Thailand",
+    "city": "Samut Prakan",
+    "cityPop": 1376146,
+    "cityPop23": 1358871,
+    "cityPop23_24": 17275,
+    "code_counter": "a720"
+}, {
+    "code": "th",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "cityPop": 1228773,
+    "cityPop23": 1213348,
+    "cityPop23_24": 15425,
+    "code_counter": "a721"
+}, {
+    "code": "th",
+    "country": "Thailand",
+    "city": "Songkhla",
+    "cityPop": 1017784,
+    "cityPop23": 1005007,
+    "cityPop23_24": 12777,
+    "code_counter": "a722"
+}, {
+    "code": "th",
+    "country": "Thailand",
+    "city": "Nonthaburi",
+    "cityPop": 1013672,
+    "cityPop23": 1000947,
+    "cityPop23_24": 12725,
+    "code_counter": "a723"
+}, {
+    "code": "th",
+    "country": "Thailand",
+    "city": "Pathum Thani",
+    "cityPop": 962126,
+    "cityPop23": 950048,
+    "cityPop23_24": 12078,
+    "code_counter": "a724"
+}, {
+    "code": "th",
+    "country": "Thailand",
+    "city": "Nakhon Ratcha..",
+    "cityPop": 811446,
+    "cityPop23": 801853,
+    "cityPop23_24": 9593,
+    "code_counter": "a725"
+}, {
+    "code": "tg",
+    "country": "Togo",
+    "city": "Lome",
+    "cityPop": 2042734,
+    "cityPop23": 1981615,
+    "cityPop23_24": 61119,
+    "code_counter": "a726"
+}, {
+    "code": "tn",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "cityPop": 2510673,
+    "cityPop23": 2475446,
+    "cityPop23_24": 35227,
+    "code_counter": "a727"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "cityPop": 16047350,
+    "cityPop23": 15847768,
+    "cityPop23_24": 199582,
+    "code_counter": "a728"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Ankara",
+    "cityPop": 5477087,
+    "cityPop23": 5397098,
+    "cityPop23_24": 79989,
+    "code_counter": "a729"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Izmir",
+    "cityPop": 3120340,
+    "cityPop23": 3088414,
+    "cityPop23_24": 31926,
+    "code_counter": "a730"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Bursa",
+    "cityPop": 2115513,
+    "cityPop23": 2086324,
+    "cityPop23_24": 29189,
+    "code_counter": "a731"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Adana",
+    "cityPop": 1856638,
+    "cityPop23": 1835895,
+    "cityPop23_24": 20743,
+    "code_counter": "a732"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Gaziantep",
+    "cityPop": 1833006,
+    "cityPop23": 1804704,
+    "cityPop23_24": 28302,
+    "code_counter": "a733"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Konya",
+    "cityPop": 1429935,
+    "cityPop23": 1407632,
+    "cityPop23_24": 22303,
+    "code_counter": "a734"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Antalya",
+    "cityPop": 1372400,
+    "cityPop23": 1347240,
+    "cityPop23_24": 25160,
+    "code_counter": "a735"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Diyarbakir",
+    "cityPop": 1113333,
+    "cityPop23": 1096937,
+    "cityPop23_24": 16396,
+    "code_counter": "a736"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Mersin",
+    "cityPop": 1084817,
+    "cityPop23": 1069402,
+    "cityPop23_24": 15415,
+    "code_counter": "a737"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Kayseri",
+    "cityPop": 1025507,
+    "cityPop23": 1013240,
+    "cityPop23_24": 12267,
+    "code_counter": "a738"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Eskisehir",
+    "cityPop": 848002,
+    "cityPop23": 834065,
+    "cityPop23_24": 13937,
+    "code_counter": "a739"
+}, {
+    "code": "tr",
+    "country": "Turkey",
+    "city": "Gebze",
+    "cityPop": 831360,
+    "cityPop23": 813394,
+    "cityPop23_24": 17966,
+    "code_counter": "a740"
+}, {
+    "code": "tm",
+    "country": "Turkmenistan",
+    "city": "Ashgabat",
+    "cityPop": 921601,
+    "cityPop23": 902353,
+    "cityPop23_24": 19248,
+    "code_counter": "a741"
+}, {
+    "code": "ug",
+    "country": "Uganda",
+    "city": "Kampala",
+    "cityPop": 4050826,
+    "cityPop23": 3846102,
+    "cityPop23_24": 204724,
+    "code_counter": "a742"
+}, {
+    "code": "ua",
+    "country": "Ukraine",
+    "city": "Kiev",
+    "cityPop": 3020228,
+    "cityPop23": 3016789,
+    "cityPop23_24": 3439,
+    "code_counter": "a743"
+}, {
+    "code": "ua",
+    "country": "Ukraine",
+    "city": "Kharkiv",
+    "cityPop": 1418978,
+    "cityPop23": 1421052,
+    "cityPop23_24": -2074,
+    "code_counter": "a744"
+}, {
+    "code": "ua",
+    "country": "Ukraine",
+    "city": "Odesa",
+    "cityPop": 1007596,
+    "cityPop23": 1007716,
+    "cityPop23_24": -120,
+    "code_counter": "a745"
+}, {
+    "code": "ua",
+    "country": "Ukraine",
+    "city": "Dnipro",
+    "cityPop": 936766,
+    "cityPop23": 941586,
+    "cityPop23_24": -4820,
+    "code_counter": "a746"
+}, {
+    "code": "ua",
+    "country": "Ukraine",
+    "city": "Donetsk",
+    "cityPop": 882209,
+    "cityPop23": 887716,
+    "cityPop23_24": -5507,
+    "code_counter": "a747"
+}, {
+    "code": "ae",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "cityPop": 3051016,
+    "cityPop23": 3007583,
+    "cityPop23_24": 43433,
+    "code_counter": "a748"
+}, {
+    "code": "ae",
+    "country": "United Arab Emirates",
+    "city": "Sharjah",
+    "cityPop": 1872199,
+    "cityPop23": 1830858,
+    "cityPop23_24": 41341,
+    "code_counter": "a749"
+}, {
+    "code": "ae",
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "cityPop": 1593284,
+    "cityPop23": 1566999,
+    "cityPop23_24": 26285,
+    "code_counter": "a750"
+}, {
+    "code": "gb",
+    "country": "United Kingdom",
+    "city": "London",
+    "cityPop": 9748033,
+    "cityPop23": 9648110,
+    "cityPop23_24": 99923,
+    "code_counter": "a751"
+}, {
+    "code": "gb",
+    "country": "United Kingdom",
+    "city": "Manchester",
+    "cityPop": 2811756,
+    "cityPop23": 2791005,
+    "cityPop23_24": 20751,
+    "code_counter": "a752"
+}, {
+    "code": "gb",
+    "country": "United Kingdom",
+    "city": "Birmingham",
+    "cityPop": 2684807,
+    "cityPop23": 2665100,
+    "cityPop23_24": 19707,
+    "code_counter": "a753"
+}, {
+    "code": "gb",
+    "country": "United Kingdom",
+    "city": "West Yorkshire",
+    "cityPop": 1942470,
+    "cityPop23": 1928661,
+    "cityPop23_24": 13809,
+    "code_counter": "a754"
+}, {
+    "code": "gb",
+    "country": "United Kingdom",
+    "city": "Glasgow",
+    "cityPop": 1708147,
+    "cityPop23": 1698088,
+    "cityPop23_24": 10059,
+    "code_counter": "a755"
+}, {
+    "code": "gb",
+    "country": "United Kingdom",
+    "city": "Southampton",
+    "cityPop": 959202,
+    "cityPop23": 951531,
+    "cityPop23_24": 7671,
+    "code_counter": "a756"
+}, {
+    "code": "gb",
+    "country": "United Kingdom",
+    "city": "Liverpool",
+    "cityPop": 922871,
+    "cityPop23": 917032,
+    "cityPop23_24": 5839,
+    "code_counter": "a757"
+}, {
+    "code": "gb",
+    "country": "United Kingdom",
+    "city": "Newc.. upon Tyne",
+    "cityPop": 828712,
+    "cityPop23": 823431,
+    "cityPop23_24": 5281,
+    "code_counter": "a758"
+}, {
+    "code": "gb",
+    "country": "United Kingdom",
+    "city": "Nottingham",
+    "cityPop": 813078,
+    "cityPop23": 806757,
+    "cityPop23_24": 6321,
+    "code_counter": "a759"
+}, {
+    "code": "gb",
+    "country": "United Kingdom",
+    "city": "Sheffield",
+    "cityPop": 751303,
+    "cityPop23": 745876,
+    "cityPop23_24": 5427,
+    "code_counter": "a760"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "New York",
+    "cityPop": 7931147,
+    "cityPop23": 8133522,
+    "cityPop23_24": -202375,
+    "code_counter": "a761"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Los Angeles",
+    "cityPop": 3748640,
+    "cityPop23": 3785439,
+    "cityPop23_24": -36799,
+    "code_counter": "a762"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Chicago",
+    "cityPop": 2590002,
+    "cityPop23": 2627520,
+    "cityPop23_24": -37518,
+    "code_counter": "a763"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Houston",
+    "cityPop": 2305889,
+    "cityPop23": 2304383,
+    "cityPop23_24": 1506,
+    "code_counter": "a764"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Phoenix",
+    "cityPop": 1676481,
+    "cityPop23": 1660445,
+    "cityPop23_24": 16036,
+    "code_counter": "a765"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Philadelphia",
+    "cityPop": 1533916,
+    "cityPop23": 1550587,
+    "cityPop23_24": -16671,
+    "code_counter": "a766"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "San Antonio",
+    "cityPop": 1506593,
+    "cityPop23": 1489751,
+    "cityPop23_24": 16842,
+    "code_counter": "a767"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "San Diego",
+    "cityPop": 1375452,
+    "cityPop23": 1378307,
+    "cityPop23_24": -2855,
+    "code_counter": "a768"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Dallas",
+    "cityPop": 1295447,
+    "cityPop23": 1297495,
+    "cityPop23_24": -2048,
+    "code_counter": "a769"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Jacksonville",
+    "cityPop": 990931,
+    "cityPop23": 981125,
+    "cityPop23_24": 9806,
+    "code_counter": "a770"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Fort Worth",
+    "cityPop": 989842,
+    "cityPop23": 973275,
+    "cityPop23_24": 16567,
+    "code_counter": "a771"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Austin",
+    "cityPop": 983126,
+    "cityPop23": 978786,
+    "cityPop23_24": 4340,
+    "code_counter": "a772"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "San Jose",
+    "cityPop": 932636,
+    "cityPop23": 951934,
+    "cityPop23_24": -19298,
+    "code_counter": "a773"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Charlotte",
+    "cityPop": 920325,
+    "cityPop23": 909022,
+    "cityPop23_24": 11303,
+    "code_counter": "a774"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Columbus",
+    "cityPop": 909676,
+    "cityPop23": 908823,
+    "cityPop23_24": 853,
+    "code_counter": "a775"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Indianapolis",
+    "cityPop": 874089,
+    "cityPop23": 877355,
+    "cityPop23_24": -3266,
+    "code_counter": "a776"
+}, {
+    "code": "us",
+    "country": "United States",
+    "city": "Seattle",
+    "cityPop": 757992,
+    "cityPop23": 753624,
+    "cityPop23_24": 4368,
+    "code_counter": "a777"
+}, {
+    "code": "uy",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "cityPop": 1781363,
+    "cityPop23": 1774396,
+    "cityPop23_24": 6967,
+    "code_counter": "a778"
+}, {
+    "code": "uz",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "cityPop": 2633661,
+    "cityPop23": 2603243,
+    "cityPop23_24": 30418,
+    "code_counter": "a779"
+}, {
+    "code": "ve",
+    "country": "Venezuela",
+    "city": "Caracas",
+    "cityPop": 2991727,
+    "cityPop23": 2972145,
+    "cityPop23_24": 19582,
+    "code_counter": "a780"
+}, {
+    "code": "ve",
+    "country": "Venezuela",
+    "city": "Maracaibo",
+    "cityPop": 2400826,
+    "cityPop23": 2367626,
+    "cityPop23_24": 33200,
+    "code_counter": "a781"
+}, {
+    "code": "ve",
+    "country": "Venezuela",
+    "city": "Valencia",
+    "cityPop": 2007265,
+    "cityPop23": 1983445,
+    "cityPop23_24": 23820,
+    "code_counter": "a782"
+}, {
+    "code": "ve",
+    "country": "Venezuela",
+    "city": "Barquisimeto",
+    "cityPop": 1267872,
+    "cityPop23": 1254192,
+    "cityPop23_24": 13680,
+    "code_counter": "a783"
+}, {
+    "code": "ve",
+    "country": "Venezuela",
+    "city": "Maracay",
+    "cityPop": 1256553,
+    "cityPop23": 1242945,
+    "cityPop23_24": 13608,
+    "code_counter": "a784"
+}, {
+    "code": "ve",
+    "country": "Venezuela",
+    "city": "Ciudad Guayana",
+    "cityPop": 978202,
+    "cityPop23": 964266,
+    "cityPop23_24": 13936,
+    "code_counter": "a785"
+}, {
+    "code": "ve",
+    "country": "Venezuela",
+    "city": "Barc.Puerto La Cruz",
+    "cityPop": 835805,
+    "cityPop23": 825581,
+    "cityPop23_24": 10224,
+    "code_counter": "a786"
+}, {
+    "code": "ve",
+    "country": "Venezuela",
+    "city": "Maturin",
+    "cityPop": 775097,
+    "cityPop23": 758185,
+    "cityPop23_24": 16912,
+    "code_counter": "a787"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "cityPop": 9567656,
+    "cityPop23": 9320866,
+    "cityPop23_24": 246790,
+    "code_counter": "a788"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "cityPop": 5431801,
+    "cityPop23": 5253385,
+    "cityPop23_24": 178416,
+    "code_counter": "a789"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Can Tho",
+    "cityPop": 1938915,
+    "cityPop23": 1865172,
+    "cityPop23_24": 73743,
+    "code_counter": "a790"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Hai Phong",
+    "cityPop": 1463650,
+    "cityPop23": 1422974,
+    "cityPop23_24": 40676,
+    "code_counter": "a791"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "cityPop": 1253228,
+    "cityPop23": 1220634,
+    "cityPop23_24": 32594,
+    "code_counter": "a792"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Bien Hoa",
+    "cityPop": 1142997,
+    "cityPop23": 1110824,
+    "cityPop23_24": 32173,
+    "code_counter": "a793"
+}, {
+    "code": "ye",
+    "country": "Yemen",
+    "city": "Sanaa",
+    "cityPop": 3407814,
+    "cityPop23": 3292497,
+    "cityPop23_24": 115317,
+    "code_counter": "a794"
+}, {
+    "code": "ye",
+    "country": "Yemen",
+    "city": "Aden",
+    "cityPop": 1116193,
+    "cityPop23": 1079670,
+    "cityPop23_24": 36523,
+    "code_counter": "a795"
+}, {
+    "code": "ye",
+    "country": "Yemen",
+    "city": "Taiz",
+    "cityPop": 974518,
+    "cityPop23": 940600,
+    "cityPop23_24": 33918,
+    "code_counter": "a796"
+}, {
+    "code": "ye",
+    "country": "Yemen",
+    "city": "Ibb",
+    "cityPop": 810149,
+    "cityPop23": 771514,
+    "cityPop23_24": 38635,
+    "code_counter": "a797"
+}, {
+    "code": "ye",
+    "country": "Yemen",
+    "city": "Al-Hudaydah",
+    "cityPop": 759157,
+    "cityPop23": 734699,
+    "cityPop23_24": 24458,
+    "code_counter": "a798"
+}, {
+    "code": "zm",
+    "country": "Zambia",
+    "city": "Lusaka",
+    "cityPop": 3324219,
+    "cityPop23": 3181250,
+    "cityPop23_24": 142969,
+    "code_counter": "a799"
+}, {
+    "code": "zm",
+    "country": "Zambia",
+    "city": "Kitwe",
+    "cityPop": 792350,
+    "cityPop23": 762981,
+    "cityPop23_24": 29369,
+    "code_counter": "a800"
+}, {
+    "code": "zw",
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "cityPop": 1603201,
+    "cityPop23": 1578128,
+    "cityPop23_24": 25073,
+    "code_counter": "a801"
+}]
