@@ -1,320 +1,125 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>IMF — GDP per capita (NGDPDPC) — Ranking + Live Count</title>
-<style>
-  :root{
-    --bg:#0f1724;
-    --card:#0b1220;
-    --muted:#9aa7b2;
-    --accent:#2dd4bf;
-    --white:#e6eef6;
-  }
-  html,body{height:100%;margin:0;font-family:Inter,Segoe UI,Roboto,Arial,sans-serif;background:linear-gradient(180deg,var(--bg),#07101a);color:var(--white)}
-  .wrap{max-width:1100px;margin:28px auto;padding:22px}
-  header{display:flex;align-items:center;gap:18px;margin-bottom:18px}
-  header h1{margin:0;font-size:20px;letter-spacing:0.2px}
-  .meta{color:var(--muted);font-size:13px}
-  .controls{margin-left:auto;display:flex;gap:8px;align-items:center}
-  button{background:transparent;border:1px solid rgba(255,255,255,0.06);padding:8px 12px;border-radius:8px;color:var(--white);cursor:pointer}
-  button.secondary{border-color:rgba(255,255,255,0.04);color:var(--muted)}
-  .card{background:var(--card);border-radius:12px;padding:12px;border:1px solid rgba(255,255,255,0.03);box-shadow:0 6px 20px rgba(2,6,23,0.6)}
-  .summary{display:flex;gap:12px;align-items:center;margin-bottom:12px}
-  .summary .big{font-size:28px;font-weight:600}
-  .list-header{display:grid;grid-template-columns:48px 1fr 120px 160px;gap:12px;padding:10px 6px;color:var(--muted);font-size:13px}
-  .list{max-height:64vh;overflow:auto;border-radius:8px;}
-  .row{display:grid;grid-template-columns:48px 1fr 120px 160px;gap:12px;align-items:center;padding:10px 6px;border-top:1px solid rgba(255,255,255,0.02)}
-  .rank{font-weight:700;color:var(--accent)}
-  .country{display:flex;flex-direction:column}
-  .country .name{font-weight:600}
-  .country .code{font-size:12px;color:var(--muted)}
-  .year{font-size:13px;color:var(--muted)}
-  .value{font-weight:700;font-size:16px;text-align:right;min-width:140px}
-  .small{font-size:12px;color:var(--muted)}
-  .loader{display:inline-block;width:18px;height:18px;border-radius:50%;border:3px solid rgba(255,255,255,0.06);border-top-color:var(--accent);animation:spin 1s linear infinite}
-  @keyframes spin{to{transform:rotate(360deg)}}
-  .searchBox{display:flex;gap:8px;align-items:center;background:rgba(255,255,255,0.02);padding:6px;border-radius:8px}
-  .searchBox input{background:transparent;border:0;color:var(--white);padding:6px;outline:none}
-  .note{margin-top:10px;color:var(--muted);font-size:13px}
-  @media (max-width:720px){
-    .list-header,.row{grid-template-columns:40px 1fr 95px 110px;font-size:14px}
-    .value{min-width:110px}
-  }
-</style>
+    <meta charset="UTF-8">
+    <title>IMF GDP Per Capita Ranking</title>
+    <style>
+        body {
+            background: #111;
+            color: #fff;
+            font-family: Arial;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .country-row {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #333;
+            font-size: 18px;
+        }
+        .rank {
+            width: 50px;
+        }
+        .flag {
+            width: 40px;
+            height: 25px;
+            margin-right: 10px;
+        }
+        .name {
+            width: 200px;
+        }
+        .value {
+            font-weight: bold;
+            color: white;
+            transition: color 2s;
+        }
+    </style>
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <div>
-        <h1>IMF — GDP per capita (NGDPDPC) — Ranking (live)</h1>
-        <div class="meta">Indicator: <strong>NGDPDPC</strong> · Source: IMF DataMapper API</div>
-      </div>
 
-      <div class="controls">
-        <div class="searchBox card" title="Filter by country name or ISO code">
-          <input id="q" placeholder="Filter (country or code)..." />
-        </div>
-        <button id="refresh">Refresh</button>
-        <button id="toggleAnim" class="secondary">Pause animation</button>
-      </div>
-    </header>
+<h1>IMF – GDP Per Capita Ranking (NGDPDPC)</h1>
 
-    <div class="card">
-      <div class="summary">
-        <div class="big">Top GDP per capita — <span id="topCountry">—</span></div>
-        <div class="small">Latest year: <strong id="latestYear">—</strong></div>
-        <div style="margin-left:auto" id="status"><span class="loader"></span> Loading</div>
-      </div>
-
-      <div class="list-header">
-        <div>#</div>
-        <div>Country</div>
-        <div>Year</div>
-        <div style="text-align:right">GDP per capita (USD)</div>
-      </div>
-
-      <div id="list" class="list" role="list"></div>
-
-      <div class="note">Data loaded from IMF DataMapper API (indicator <code>NGDPDPC</code>). If a country has no recent data it is omitted. You can filter by country name or ISO code.</div>
-    </div>
-  </div>
+<div id="list"></div>
 
 <script>
-/*
-  How it works:
-  1) Fetch countries list (code -> name)
-  2) Fetch NGDPDPC series (this endpoint returns values for many countries in one object)
-  3) For each country code present in NGDPDPC, pick the latest available year/value
-  4) Build array, sort by value desc, display top ~190 (all)
-  5) Animate count-up for each displayed value (duration 2000ms)
-  
-  Note: IMF DataMapper API base: https://www.imf.org/external/datamapper/api/v1/
-  Verified endpoint availability in IMF docs.
-  (Citations are included in the assistant response.)
-*/
+async function loadGDP() {
+    const url = "https://www.imf.org/external/datamapper/api/v1/NGDPDPC";
 
-const API_BASE = 'https://www.imf.org/external/datamapper/api/v1';
-const INDICATOR = 'NGDPDPC'; // GDP per capita, current prices
-const listEl = document.getElementById('list');
-const statusEl = document.getElementById('status');
-const topCountryEl = document.getElementById('topCountry');
-const latestYearEl = document.getElementById('latestYear');
-const refreshBtn = document.getElementById('refresh');
-const toggleAnimBtn = document.getElementById('toggleAnim');
-const qInput = document.getElementById('q');
+    const res = await fetch(url);
+    const data = await res.json();
 
-let countriesMap = {}; // code -> name
-let rowsData = [];     // prepared data rows
-let animEnabled = true;
-let currentAnimations = new Map(); // id -> animation cancel function
+    const gdpData = data.values.NGDPDPC;
+    const listDiv = document.getElementById("list");
 
-async function fetchJSON(url){
-  const res = await fetch(url);
-  if(!res.ok) throw new Error('HTTP '+res.status+' fetching '+url);
-  return res.json();
-}
+    let countries = [];
 
-function formatNumber(n){
-  // show with thousands separator, no decimals for GDP per capita
-  if (n === null || isNaN(n)) return '—';
-  return Math.round(n).toLocaleString();
-}
+    for (let code in gdpData) {
+        let years = Object.keys(gdpData[code]).map(y => parseInt(y));
+        let latestYear = Math.max(...years);
+        let value = gdpData[code][latestYear];
 
-function animateValue(el, from, to, duration = 2000){
-  // cancel existing if present
-  if (currentAnimations.has(el)) {
-    const cancel = currentAnimations.get(el);
-    if (typeof cancel === 'function') cancel();
-  }
-  if(!animEnabled){
-    el.textContent = formatNumber(to) + ' USD';
-    return () => {};
-  }
-  let start = null;
-  const diff = to - from;
-  let canceled = false;
-  function step(ts){
-    if (canceled) return;
-    if (!start) start = ts;
-    const t = Math.min(1, (ts - start)/duration);
-    const val = from + diff * easeOutCubic(t);
-    el.textContent = formatNumber(val) + ' USD';
-    if (t < 1) {
-      el._raf = requestAnimationFrame(step);
-    } else {
-      el.textContent = formatNumber(to) + ' USD';
-      currentAnimations.delete(el);
-    }
-  }
-  el._raf = requestAnimationFrame(step);
-  currentAnimations.set(el, () => {
-    canceled = true;
-    if (el._raf) cancelAnimationFrame(el._raf);
-    currentAnimations.delete(el);
-  });
-  return () => { canceled = true; if (el._raf) cancelAnimationFrame(el._raf); currentAnimations.delete(el); };
-}
-function easeOutCubic(t){ return 1 - Math.pow(1 - t, 3); }
-
-function clearRows(){
-  // cancel all animations
-  for (const cancel of currentAnimations.values()) {
-    if (typeof cancel === 'function') cancel();
-  }
-  currentAnimations.clear();
-  listEl.innerHTML = '';
-}
-
-function renderRows(rows){
-  clearRows();
-  const frag = document.createDocumentFragment();
-  rows.forEach((r, idx) => {
-    const row = document.createElement('div');
-    row.className = 'row';
-    row.setAttribute('role','listitem');
-    // rank
-    const rank = document.createElement('div');
-    rank.className = 'rank';
-    rank.textContent = (idx+1);
-    // country
-    const country = document.createElement('div');
-    country.className = 'country';
-    const name = document.createElement('div');
-    name.className = 'name';
-    name.textContent = r.name || r.code;
-    const code = document.createElement('div');
-    code.className = 'code';
-    code.textContent = r.code;
-    country.appendChild(name);
-    country.appendChild(code);
-    // year
-    const year = document.createElement('div');
-    year.className = 'year';
-    year.textContent = r.year;
-    // value
-    const value = document.createElement('div');
-    value.className = 'value';
-    value.textContent = '—';
-    // assemble
-    row.appendChild(rank);
-    row.appendChild(country);
-    row.appendChild(year);
-    row.appendChild(value);
-    frag.appendChild(row);
-
-    // animate from 0 to value
-    animateValue(value, 0, r.value, 2000);
-  });
-  listEl.appendChild(frag);
-}
-
-function applyFilter(q){
-  const qlc = (q||'').trim().toLowerCase();
-  if (!qlc) return rowsData;
-  return rowsData.filter(r => (r.name && r.name.toLowerCase().includes(qlc)) || r.code.toLowerCase().includes(qlc));
-}
-
-async function loadAll(){
-  try {
-    statusEl.innerHTML = '<span class="loader"></span> Fetching country list...';
-    // countries map
-    const countriesResp = await fetchJSON(API_BASE + '/countries');
-    // countriesResp is an object: { countries: { USA: {label: "United States"}, ... } } OR top-level object whose keys are country codes.
-    // Normalize: if "countries" key present, use that
-    const countriesObj = countriesResp.countries || countriesResp;
-    countriesMap = {};
-    for (const code of Object.keys(countriesObj)){
-      const entry = countriesObj[code];
-      // entry may be string or object with label
-      countriesMap[code] = (entry && entry.label) ? entry.label : (typeof entry === 'string' ? entry : code);
-    }
-
-    statusEl.innerHTML = '<span class="loader"></span> Fetching NGDPDPC series (this may be large)...';
-    const indicatorResp = await fetchJSON(API_BASE + '/' + INDICATOR);
-    // indicatorResp typically contains a "values" object: { values: { NGDPDPC: { USA: { "2024": 60000, "2023": ... }, ... } }, ... }
-    const valuesRoot = indicatorResp.values && (indicatorResp.values[INDICATOR] || indicatorResp.values);
-    if (!valuesRoot) {
-      throw new Error('Unexpected NGDPDPC response shape');
-    }
-
-    // Build rows: for each country code present, find the latest (max) numeric year, pick its value
-    const rows = [];
-    for (const code of Object.keys(valuesRoot)){
-      const series = valuesRoot[code];
-      if (!series) continue;
-      // series is object: yearStr -> numeric value (or sometimes null). keep numeric years only
-      const years = Object.keys(series).filter(k => /^\d{3,4}$/.test(k));
-      if (!years.length) continue;
-      // parse years to numbers and sort descending
-      const numericYears = years.map(y => parseInt(y,10)).sort((a,b)=>b-a);
-      let chosenYear = null;
-      let chosenValue = null;
-      for (const y of numericYears){
-        const v = series[y];
-        if (v !== null && v !== undefined && !isNaN(v)){
-          chosenYear = y;
-          chosenValue = Number(v);
-          break;
+        if (!isNaN(value)) {
+            countries.push({
+                code,
+                value,
+                year: latestYear
+            });
         }
-      }
-      if (chosenYear === null) continue;
-      rows.push({
-        code,
-        name: countriesMap[code] || code,
-        year: chosenYear,
-        value: chosenValue
-      });
     }
 
-    // Sort by value descending
-    rows.sort((a,b)=>b.value - a.value);
+    // Sort by highest GDP PC
+    countries.sort((a, b) => b.value - a.value);
 
-    // Save global rows (all countries)
-    rowsData = rows;
+    let index = 1;
 
-    // Update summary info (top country and latest year encountered)
-    const top = rows[0];
-    topCountryEl.textContent = top ? `${top.name} (${top.code})` : '—';
-    const maxYear = rows.reduce((acc, r) => Math.max(acc, r.year||0), 0);
-    latestYearEl.textContent = maxYear || '—';
+    countries.forEach(c => {
+        let row = document.createElement("div");
+        row.className = "country-row";
 
-    statusEl.textContent = `Loaded ${rows.length} countries.`;
+        row.innerHTML = `
+            <div class="rank">${index}</div>
+            <img class="flag" src="https://flagcdn.com/w40/${c.code.toLowerCase()}.png">
+            <div class="name">${c.code}</div>
+            <div class="value" id="value_${index}">0</div>
+        `;
 
-    // render (filtered if needed)
-    renderRows(applyFilter(qInput.value));
-  } catch (err) {
-    console.error(err);
-    statusEl.textContent = 'Error fetching data — see console.';
-    listEl.innerHTML = '<div style="padding:12px;color:var(--muted)">An error occurred while loading API data. Check the console for details.</div>';
-  }
+        listDiv.appendChild(row);
+
+        animateValue(`value_${index}`, 0, c.value, 1500);
+
+        index++;
+    });
 }
 
-refreshBtn.addEventListener('click', () => loadAll());
-toggleAnimBtn.addEventListener('click', () => {
-  animEnabled = !animEnabled;
-  toggleAnimBtn.textContent = animEnabled ? 'Pause animation' : 'Resume animation';
-  // if disabling, cancel animations and show final values
-  if (!animEnabled) {
-    for (const [el, cancel] of currentAnimations.entries()) if (typeof cancel === 'function') cancel();
-    currentAnimations.clear();
-    // re-render to show final numbers without animation
-    renderRows(applyFilter(qInput.value));
-  } else {
-    // re-render to animate from 0
-    renderRows(applyFilter(qInput.value));
-  }
-});
+function animateValue(id, start, end, duration) {
+    const obj = document.getElementById(id);
+    let startTime = null;
 
-qInput.addEventListener('input', () => {
-  const filtered = applyFilter(qInput.value);
-  renderRows(filtered);
-});
+    function update(timestamp) {
+        if (!startTime) startTime = timestamp;
+        let progress = timestamp - startTime;
+        let percent = Math.min(progress / duration, 1);
+        let value = Math.floor(start + (end - start) * percent);
 
-// initial load
-loadAll();
+        obj.textContent = value.toLocaleString();
 
+        // Color change animation
+        obj.style.color = end > start ? "lime" : "red";
+        if (percent === 1) {
+            setTimeout(() => obj.style.color = "white", 2000);
+        }
+
+        if (percent < 1) requestAnimationFrame(update);
+    }
+
+    requestAnimationFrame(update);
+}
+
+loadGDP();
 </script>
+
 </body>
 </html>
